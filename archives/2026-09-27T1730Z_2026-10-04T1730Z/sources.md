@@ -1,0 +1,1165 @@
+# Hermes weekly digest source archive
+
+This is a self-contained GET-only GitHub API snapshot. It is not a public immutable archive until FRIDAY publishes and pins it.
+
+- Repository: `NousResearch/hermes-agent`
+- Window: `2026-09-27T17:30:00Z` through `2026-10-04T17:30:00Z` (end exclusive)
+- Window key: `v1|repo=NousResearch/hermes-agent|subreddit=hermesagent|start=2026-09-27T17:30:00Z|end=2026-10-04T17:30:00Z`
+- Qualification: `reconciled_api_snapshot`
+- Root count: `1042`; leaves: `2`
+- Source snapshot SHA-256: `f49287ed3ab44c7004cb7aab0cceea86d919ee5fecfea11b726134feb24d20c1`
+
+## Search requests
+
+### Request 1
+- Fetched: `2026-10-05T21:16:55Z`
+- Query: `repo:NousResearch/hermes-agent is:pr is:merged merged:2026-09-27T17:30:00Z..2026-10-04T17:29:59Z`
+- Page: `1`
+- Reported count: `1042`
+- Items on page: `100`
+
+### Request 2
+- Fetched: `2026-10-05T21:16:57Z`
+- Query: `repo:NousResearch/hermes-agent is:pr is:merged merged:2026-09-27T17:30:00Z..2026-10-01T05:29:59Z`
+- Page: `1`
+- Reported count: `533`
+- Items on page: `100`
+
+### Request 3
+- Fetched: `2026-10-05T21:16:58Z`
+- Query: `repo:NousResearch/hermes-agent is:pr is:merged merged:2026-09-27T17:30:00Z..2026-10-01T05:29:59Z`
+- Page: `2`
+- Reported count: `533`
+- Items on page: `100`
+
+### Request 4
+- Fetched: `2026-10-05T21:17:00Z`
+- Query: `repo:NousResearch/hermes-agent is:pr is:merged merged:2026-09-27T17:30:00Z..2026-10-01T05:29:59Z`
+- Page: `3`
+- Reported count: `533`
+- Items on page: `100`
+
+### Request 5
+- Fetched: `2026-10-05T21:17:01Z`
+- Query: `repo:NousResearch/hermes-agent is:pr is:merged merged:2026-09-27T17:30:00Z..2026-10-01T05:29:59Z`
+- Page: `4`
+- Reported count: `533`
+- Items on page: `100`
+
+### Request 6
+- Fetched: `2026-10-05T21:17:02Z`
+- Query: `repo:NousResearch/hermes-agent is:pr is:merged merged:2026-09-27T17:30:00Z..2026-10-01T05:29:59Z`
+- Page: `5`
+- Reported count: `533`
+- Items on page: `100`
+
+### Request 7
+- Fetched: `2026-10-05T21:17:04Z`
+- Query: `repo:NousResearch/hermes-agent is:pr is:merged merged:2026-09-27T17:30:00Z..2026-10-01T05:29:59Z`
+- Page: `6`
+- Reported count: `533`
+- Items on page: `33`
+
+### Request 8
+- Fetched: `2026-10-05T21:17:04Z`
+- Query: `repo:NousResearch/hermes-agent is:pr is:merged merged:2026-10-01T05:30:00Z..2026-10-04T17:29:59Z`
+- Page: `1`
+- Reported count: `509`
+- Items on page: `100`
+
+### Request 9
+- Fetched: `2026-10-05T21:17:06Z`
+- Query: `repo:NousResearch/hermes-agent is:pr is:merged merged:2026-10-01T05:30:00Z..2026-10-04T17:29:59Z`
+- Page: `2`
+- Reported count: `509`
+- Items on page: `100`
+
+### Request 10
+- Fetched: `2026-10-05T21:17:07Z`
+- Query: `repo:NousResearch/hermes-agent is:pr is:merged merged:2026-10-01T05:30:00Z..2026-10-04T17:29:59Z`
+- Page: `3`
+- Reported count: `509`
+- Items on page: `100`
+
+### Request 11
+- Fetched: `2026-10-05T21:17:08Z`
+- Query: `repo:NousResearch/hermes-agent is:pr is:merged merged:2026-10-01T05:30:00Z..2026-10-04T17:29:59Z`
+- Page: `4`
+- Reported count: `509`
+- Items on page: `100`
+
+### Request 12
+- Fetched: `2026-10-05T21:17:57Z`
+- Query: `repo:NousResearch/hermes-agent is:pr is:merged merged:2026-10-01T05:30:00Z..2026-10-04T17:29:59Z`
+- Page: `5`
+- Reported count: `509`
+- Items on page: `100`
+
+### Request 13
+- Fetched: `2026-10-05T21:17:58Z`
+- Query: `repo:NousResearch/hermes-agent is:pr is:merged merged:2026-10-01T05:30:00Z..2026-10-04T17:29:59Z`
+- Page: `6`
+- Reported count: `509`
+- Items on page: `9`
+
+## Candidates
+
+- [#59661](https://github.com/NousResearch/hermes-agent/pull/59661) fix(rest): include compression-ancestor messages in /api/sessions/{id}/messages (#51058)
+- [#65829](https://github.com/NousResearch/hermes-agent/pull/65829) fix(desktop): avoid WSL clipboard AV quarantine
+- [#68892](https://github.com/NousResearch/hermes-agent/pull/68892) fix(desktop): disable haptics audio to prevent CoreAudio stutter
+- [#73461](https://github.com/NousResearch/hermes-agent/pull/73461) fix(desktop): remove 9px override from pane tab label, inherit parent size
+- [#75044](https://github.com/NousResearch/hermes-agent/pull/75044) fix(desktop): add SSH keepalive to prevent tunnel drop after idle (#74998)
+- [#75797](https://github.com/NousResearch/hermes-agent/pull/75797) fix(desktop): unwrap URL references when copying code blocks
+- [#77421](https://github.com/NousResearch/hermes-agent/pull/77421) test(desktop): run ui test project in development mode for React act
+- [#79510](https://github.com/NousResearch/hermes-agent/pull/79510) fix(tui_gateway): route model switches across the compute-host boundary
+- [#80654](https://github.com/NousResearch/hermes-agent/pull/80654) fix(desktop): keep SSH forwards alive across mux idle
+- [#81351](https://github.com/NousResearch/hermes-agent/pull/81351) fix(desktop): keep-alive hidden panes can no longer paint through
+- [#81462](https://github.com/NousResearch/hermes-agent/pull/81462) fix(desktop): keep MEDIA attachments and prose when a turn also generated an image
+- [#81833](https://github.com/NousResearch/hermes-agent/pull/81833) fix(desktop): warn user when slash command sent with attachment
+- [#84290](https://github.com/NousResearch/hermes-agent/pull/84290) fix(desktop): drive the pet from any working session, not just the foreground one (#84282)
+- [#86036](https://github.com/NousResearch/hermes-agent/pull/86036) fix(desktop): keep clarify dialogs alive while the server bridge is still blocked
+- [#88978](https://github.com/NousResearch/hermes-agent/pull/88978) fix(desktop): map URL-remote per-profile label to backend profile via remoteProfile (#88282)
+- [#89663](https://github.com/NousResearch/hermes-agent/pull/89663) fix(profiles): reject non-string profile names instead of coercing
+- [#90517](https://github.com/NousResearch/hermes-agent/pull/90517) test(web): run the dashboard test project in development mode
+- [#92137](https://github.com/NousResearch/hermes-agent/pull/92137) fix(desktop): memoize statusbar render-contributions so state survives re-renders
+- [#92223](https://github.com/NousResearch/hermes-agent/pull/92223) fix(desktop): return structured error for missing-file preview reads
+- [#92746](https://github.com/NousResearch/hermes-agent/pull/92746) fix(desktop): constrain composer attachment row (unverified, #92664)
+- [#93362](https://github.com/NousResearch/hermes-agent/pull/93362) fix(desktop): stop trusting composer previewUrl as a full-res upload cache
+- [#95959](https://github.com/NousResearch/hermes-agent/pull/95959) fix(web): redial after clean 1012 service-restart closes
+- [#96378](https://github.com/NousResearch/hermes-agent/pull/96378) fix(init): target the session's active directory, not the process cwd
+- [#96417](https://github.com/NousResearch/hermes-agent/pull/96417) fix(desktop): name pasted composer images with local time, not UTC
+- [#96766](https://github.com/NousResearch/hermes-agent/pull/96766) fix(desktop): hydrate pending clarify args on re-arm
+- [#96803](https://github.com/NousResearch/hermes-agent/pull/96803) fix(gateway): materialize session row on resume for minted-but-never-…
+- [#97444](https://github.com/NousResearch/hermes-agent/pull/97444) fix(desktop): use stored session identity for reactions
+- [#97789](https://github.com/NousResearch/hermes-agent/pull/97789) fix(desktop): mark previous reply spoken before submitting the next voice turn
+- [#97871](https://github.com/NousResearch/hermes-agent/pull/97871) fix(desktop): surface Tailscale SSH browser checks
+- [#97876](https://github.com/NousResearch/hermes-agent/pull/97876) fix(dashboard): show the slot model as current in aux/MoA pickers
+- [#97944](https://github.com/NousResearch/hermes-agent/pull/97944) fix(desktop): preserve zoom across Windows maximize
+- [#98661](https://github.com/NousResearch/hermes-agent/pull/98661) fix(desktop): auto-recover boundaries from React portal teardown races
+- [#99538](https://github.com/NousResearch/hermes-agent/pull/99538) fix(desktop): browse SSH-backed workspaces remotely
+- [#100894](https://github.com/NousResearch/hermes-agent/pull/100894) fix(desktop): preserve star map context menu
+- [#101076](https://github.com/NousResearch/hermes-agent/pull/101076) fix(desktop): clear dead remote update markers on SSH startup
+- [#101082](https://github.com/NousResearch/hermes-agent/pull/101082) fix(debug-share): capture update.log and desktop-update-handoff.log
+- [#101403](https://github.com/NousResearch/hermes-agent/pull/101403) fix(gateway): stop truncating the command block on a bare / browse
+- [#101480](https://github.com/NousResearch/hermes-agent/pull/101480) fix(desktop): add opacity-0 to hidden keep-alive pane layers
+- [#101790](https://github.com/NousResearch/hermes-agent/pull/101790) fix(desktop): salvage #44556 serve dashboard bundle from desktop backend
+- [#101846](https://github.com/NousResearch/hermes-agent/pull/101846) fix(desktop): set MSYS path-conversion guards in embedded terminal
+- [#102250](https://github.com/NousResearch/hermes-agent/pull/102250) fix(desktop): close preview tabs by live browser URL
+- [#102744](https://github.com/NousResearch/hermes-agent/pull/102744) fix(desktop): comment mode redacts the whole picked tree and keeps nested groups together
+- [#103430](https://github.com/NousResearch/hermes-agent/pull/103430) fix(cli): decode percent-encoded fs paths that arrive double-encoded
+- [#103574](https://github.com/NousResearch/hermes-agent/pull/103574) fix(desktop): explain unavailable Windows ARM64 window context
+- [#105129](https://github.com/NousResearch/hermes-agent/pull/105129) fix(desktop): settle managed SSH updates before the local updater handoff
+- [#105136](https://github.com/NousResearch/hermes-agent/pull/105136) fix(discord): upsert recreated slash commands without a delete-first step (#104399)
+- [#105985](https://github.com/NousResearch/hermes-agent/pull/105985) fix(desktop): retain background turn leases across reconnect
+- [#106002](https://github.com/NousResearch/hermes-agent/pull/106002) fix(desktop): warm local STT on mic-open so cold model load stops timing out transcription
+- [#106465](https://github.com/NousResearch/hermes-agent/pull/106465) fix(kanban): resolve completion references across boards
+- [#106719](https://github.com/NousResearch/hermes-agent/pull/106719) fix(desktop): recover the context meter after compression instead of freezing stale (#94001)
+- [#106914](https://github.com/NousResearch/hermes-agent/pull/106914) fix(desktop): stop simple-git unsafe-binary warning spam on Windows
+- [#108090](https://github.com/NousResearch/hermes-agent/pull/108090) fix(desktop): enrich backgroundDone notification body with exit code and output tail
+- [#108111](https://github.com/NousResearch/hermes-agent/pull/108111) fix(desktop): skip non-primary local bot relay route
+- [#108164](https://github.com/NousResearch/hermes-agent/pull/108164) fix(desktop): bound Preview console string retention
+- [#108407](https://github.com/NousResearch/hermes-agent/pull/108407) fix(desktop): rearm voice conversation after stop (#108301)
+- [#108550](https://github.com/NousResearch/hermes-agent/pull/108550) fix(desktop): route Ctrl+R to the terminal instead of reloading the app
+- [#109554](https://github.com/NousResearch/hermes-agent/pull/109554) fix(local-runtime): price SWA layers from the GGUF's own per-layer pattern, not just a name table
+- [#110345](https://github.com/NousResearch/hermes-agent/pull/110345) fix(update): credit a gateway restart by successor incarnation, not service name
+- [#110373](https://github.com/NousResearch/hermes-agent/pull/110373) fix(desktop): keep source-anchored citation markers through markdown preprocessing
+- [#111619](https://github.com/NousResearch/hermes-agent/pull/111619) fix(desktop): clarify read-only background terminals and offer a new shell
+- [#112107](https://github.com/NousResearch/hermes-agent/pull/112107) feat(local-models): calibrate Spark recommendations and default 27B reasoning to medium
+- [#112318](https://github.com/NousResearch/hermes-agent/pull/112318) fix(kanban): retry a failed worker turn in place; honest exit when recovery exhausts
+- [#114617](https://github.com/NousResearch/hermes-agent/pull/114617) fix(local-runtime): reject reused legacy server pids
+- [#115343](https://github.com/NousResearch/hermes-agent/pull/115343) chore(relay): upgrade to 0.9.3
+- [#117903](https://github.com/NousResearch/hermes-agent/pull/117903) fix(desktop): a finished agent terminal stops pinning its backlog for the life of the renderer
+- [#118025](https://github.com/NousResearch/hermes-agent/pull/118025) fix(desktop): claim the host spawn gate atomically
+- [#118114](https://github.com/NousResearch/hermes-agent/pull/118114) fix(gateway): stay alive on all-adapters-down when no service manager supervises
+- [#118268](https://github.com/NousResearch/hermes-agent/pull/118268) fix(desktop): keep the mid-run composer input full-width (#99728)
+- [#118730](https://github.com/NousResearch/hermes-agent/pull/118730) fix(desktop): resolve the serve subcommand positionally when a profile is named "serve"
+- [#119085](https://github.com/NousResearch/hermes-agent/pull/119085) fix(desktop): aggregate registered gateway sessions
+- [#119107](https://github.com/NousResearch/hermes-agent/pull/119107) fix(desktop): surface dead client wake capture instead of staying deaf forever
+- [#119431](https://github.com/NousResearch/hermes-agent/pull/119431) fix(desktop): unbind the outgoing runtime on a warm session switch
+- [#119616](https://github.com/NousResearch/hermes-agent/pull/119616) fix(desktop): retire stale turn activity after completion and reconnect
+- [#119749](https://github.com/NousResearch/hermes-agent/pull/119749) fix(desktop): Maintenance tails a second run of the same op
+- [#120154](https://github.com/NousResearch/hermes-agent/pull/120154) fix(tui_gateway): project verified native image turns as display refs
+- [#120298](https://github.com/NousResearch/hermes-agent/pull/120298) fix(desktop): stop failing a source switch that is still dialing
+- [#120660](https://github.com/NousResearch/hermes-agent/pull/120660) feat(plugin-catalog): add next-prompt plugin
+- [#120760](https://github.com/NousResearch/hermes-agent/pull/120760) fix(pricing): resolve configured provider slugs
+- [#121110](https://github.com/NousResearch/hermes-agent/pull/121110) Publish nousresearch/hermes-sandbox:desktop, the terminal-backend sandbox image with a display stack
+- [#121169](https://github.com/NousResearch/hermes-agent/pull/121169) feat(bot_desktop): Bot Screen, computer_use and the browser run inside the terminal backend
+- [#121246](https://github.com/NousResearch/hermes-agent/pull/121246) chore(plugin-catalog): bump prompt-snippets to v1.7.0 (host.composer migration)
+- [#121507](https://github.com/NousResearch/hermes-agent/pull/121507) fix(desktop): accept a bare tray-host flag from dbus-native 0.15
+- [#121715](https://github.com/NousResearch/hermes-agent/pull/121715) fix(desktop): claim scoped reads by shown-conversation identity so HUD handoff stops stranding window.read
+- [#121835](https://github.com/NousResearch/hermes-agent/pull/121835) fix(agent): stamp compaction replay rows at compaction time, not the original task time
+- [#121844](https://github.com/NousResearch/hermes-agent/pull/121844) fix(desktop): keep a settled unpersisted live-tail reply across a stale refresh graft
+- [#121904](https://github.com/NousResearch/hermes-agent/pull/121904) fix(desktop): stop background polls from out-dialing the reconnect ladder
+- [#121949](https://github.com/NousResearch/hermes-agent/pull/121949) fix(desktop): retain local secondary profile gateway for foreground sessions
+- [#122014](https://github.com/NousResearch/hermes-agent/pull/122014) fix(profiles): copy launch ${VAR} refs into new profiles, not their expanded secrets
+- [#122028](https://github.com/NousResearch/hermes-agent/pull/122028) feat(catalog): add God's Eye View for Hermes Desktop
+- [#122043](https://github.com/NousResearch/hermes-agent/pull/122043) feat(catalog): add Nachos plugin
+- [#122090](https://github.com/NousResearch/hermes-agent/pull/122090) fix(desktop): compare preview/tour gate on one session identity class (#122062)
+- [#122099](https://github.com/NousResearch/hermes-agent/pull/122099) plugin-catalog: add hermes-workflows (community, automation)
+- [#122156](https://github.com/NousResearch/hermes-agent/pull/122156) fix(desktop): scope Bot Screen display.* to the bot backend profile
+- [#122645](https://github.com/NousResearch/hermes-agent/pull/122645) fix(gateway): stop the orphan reaper claiming another home's gateway
+- [#122737](https://github.com/NousResearch/hermes-agent/pull/122737) fix(version): preserve derived display identity for tagless installs
+- [#122796](https://github.com/NousResearch/hermes-agent/pull/122796) fix(desktop): a local profile rename leaves other connections' owner hints alone
+- [#122852](https://github.com/NousResearch/hermes-agent/pull/122852) fix(process): first heartbeat keeps output printed before arming (CI flake test_process_heartbeat)
+- [#122976](https://github.com/NousResearch/hermes-agent/pull/122976) feat(desktop): macOS 26 layered app icon, ring dropped from every icon
+- [#123053](https://github.com/NousResearch/hermes-agent/pull/123053) fix(desktop): declare lucide-react dependency for onboarding setup card
+- [#123135](https://github.com/NousResearch/hermes-agent/pull/123135) fix(desktop): reconnect the client socket after a requested gateway restart
+- [#123166](https://github.com/NousResearch/hermes-agent/pull/123166) fix(desktop): keep inline math spans when CJK prose follows them
+- [#123182](https://github.com/NousResearch/hermes-agent/pull/123182) fix(classifier): classify a retired free-route 404 as model_not_found
+- [#123213](https://github.com/NousResearch/hermes-agent/pull/123213) fix(desktop): bound NVIDIA EGL fallback to confirmed-broken driver series
+- [#123246](https://github.com/NousResearch/hermes-agent/pull/123246) fix(desktop): read inline preview color-scheme from the same source as its tokens
+- [#123266](https://github.com/NousResearch/hermes-agent/pull/123266) fix(cli): let persist_switch_by_default cover provider-scoped model picks
+- [#123378](https://github.com/NousResearch/hermes-agent/pull/123378) fix(desktop): list root-level personalities in the Settings dropdown (#123297)
+- [#123382](https://github.com/NousResearch/hermes-agent/pull/123382) fix(desktop): reveal clipped profile rail edges and pin actions
+- [#123438](https://github.com/NousResearch/hermes-agent/pull/123438) fix(desktop): index artifacts by transcript page (salvage of #110967)
+- [#123750](https://github.com/NousResearch/hermes-agent/pull/123750) fix(desktop): Kanban board switcher outside the full-page layout
+- [#123844](https://github.com/NousResearch/hermes-agent/pull/123844) fix(desktop): skip dead-backend ledger records before attach
+- [#123865](https://github.com/NousResearch/hermes-agent/pull/123865) fix(desktop): keep one-question clarify answerable on a single-shape request
+- [#124047](https://github.com/NousResearch/hermes-agent/pull/124047) fix(tui_gateway): allocate file.attach uploads atomically
+- [#124058](https://github.com/NousResearch/hermes-agent/pull/124058) fix(plugins): gate installs of catalog entries that document known issues (#124037)
+- [#124338](https://github.com/NousResearch/hermes-agent/pull/124338) fix(desktop): fail fast instead of hanging when sudo has no TTY
+- [#124339](https://github.com/NousResearch/hermes-agent/pull/124339) fix(desktop): let messaging credential inputs fill their row
+- [#124340](https://github.com/NousResearch/hermes-agent/pull/124340) fix(desktop): label the messaging platform enable switch
+- [#124342](https://github.com/NousResearch/hermes-agent/pull/124342) fix(desktop): offer New cron from the empty scheduled-jobs detail
+- [#124343](https://github.com/NousResearch/hermes-agent/pull/124343) fix(desktop): show one error card when the agent fails to start
+- [#124344](https://github.com/NousResearch/hermes-agent/pull/124344) fix(desktop): confirm when the main model is applied
+- [#124345](https://github.com/NousResearch/hermes-agent/pull/124345) fix(desktop): keep single line breaks in assistant replies
+- [#124350](https://github.com/NousResearch/hermes-agent/pull/124350) fix(desktop): show provider retry and auto-recovery waits in the status row
+- [#124351](https://github.com/NousResearch/hermes-agent/pull/124351) fix(error-surface): name the provider by its display label on every error card
+- [#124353](https://github.com/NousResearch/hermes-agent/pull/124353) fix(desktop): stop calling unreachable providers a timed-out reply
+- [#124519](https://github.com/NousResearch/hermes-agent/pull/124519) chore: add hermes-self-healing-context to plugin catalog
+- [#124575](https://github.com/NousResearch/hermes-agent/pull/124575) fix(desktop): expire unknown readiness notices and clear on recovery
+- [#124724](https://github.com/NousResearch/hermes-agent/pull/124724) fix(agent): ignore execute_code per-call metadata in the loop-detector result hash
+- [#124788](https://github.com/NousResearch/hermes-agent/pull/124788) fix(desktop): hermes desktop opens on Linux with a long HERMES_HOME (#124688, salvage #124696)
+- [#124802](https://github.com/NousResearch/hermes-agent/pull/124802) fix(desktop): cron run rows carry their owning backend so the transcript opens
+- [#124805](https://github.com/NousResearch/hermes-agent/pull/124805) fix(tui_gateway): catch a live record up from the store when it lost its row ids
+- [#124815](https://github.com/NousResearch/hermes-agent/pull/124815) fix(desktop): never adopt a page from a backend that ignored order=latest
+- [#124816](https://github.com/NousResearch/hermes-agent/pull/124816) fix(desktop): re-point the window route after a primary connection apply
+- [#124839](https://github.com/NousResearch/hermes-agent/pull/124839) fix(desktop): report the real POSIX drain refusal instead of a generic error
+- [#124844](https://github.com/NousResearch/hermes-agent/pull/124844) fix(desktop): skip transcript reads for a session with no row yet
+- [#124859](https://github.com/NousResearch/hermes-agent/pull/124859) fix(desktop): interrupt a deleted session's runtime so no prompt outlives it
+- [#124932](https://github.com/NousResearch/hermes-agent/pull/124932) plugin-catalog: add openltm (community, memory)
+- [#124940](https://github.com/NousResearch/hermes-agent/pull/124940) fix(update): restart a dashboard's systemd unit only when the unit's MainPID is the dashboard
+- [#124945](https://github.com/NousResearch/hermes-agent/pull/124945) fix(desktop): open never-closed cron runs view-only, not as a writable desktop chat
+- [#124981](https://github.com/NousResearch/hermes-agent/pull/124981) catalog: bump antigravity-subscription-directsdk pin to v1.0.5
+- [#124986](https://github.com/NousResearch/hermes-agent/pull/124986) feat(plugin-catalog): add hermes-routines
+- [#124989](https://github.com/NousResearch/hermes-agent/pull/124989) fix(catalog): keep Pixel Worlds header title visible
+- [#124991](https://github.com/NousResearch/hermes-agent/pull/124991) fix(catalog): fit Blinkenbar artwork inside the detail header
+- [#124992](https://github.com/NousResearch/hermes-agent/pull/124992) fix(catalog): fit reMarkable artwork inside the detail header
+- [#124994](https://github.com/NousResearch/hermes-agent/pull/124994) fix(desktop): never report the 0.0.0 placeholder in About
+- [#125012](https://github.com/NousResearch/hermes-agent/pull/125012) fix(dashboard): remove session files when deleting empty sessions
+- [#125024](https://github.com/NousResearch/hermes-agent/pull/125024) fix(desktop): match custom:<key> providers in the settings and bot model pickers
+- [#125049](https://github.com/NousResearch/hermes-agent/pull/125049) chore(catalog): bump desensitize pin to 2dbf63d (help follows /desensitize lang)
+- [#125052](https://github.com/NousResearch/hermes-agent/pull/125052) feat(catalog): add AnyRouter model-provider plugin
+- [#125074](https://github.com/NousResearch/hermes-agent/pull/125074) feat(telemetry): opt-in shared metrics show why things fail, what users keep and turn off, and what setup and model use cost, with Desktop consent
+- [#125154](https://github.com/NousResearch/hermes-agent/pull/125154) plugin-catalog: add agora (self-driving multi-agent dev team)
+- [#125176](https://github.com/NousResearch/hermes-agent/pull/125176) fix(desktop): a fence character inside a code listing no longer ends the block
+- [#125206](https://github.com/NousResearch/hermes-agent/pull/125206) feat(plugin-catalog): bump memory-rewind to 1.2.0
+- [#125223](https://github.com/NousResearch/hermes-agent/pull/125223) fix(desktop): keep Bot Mode side chats in the Sessions sidebar
+- [#125314](https://github.com/NousResearch/hermes-agent/pull/125314) fix(update): restart hermes-dashboard* systemd units during fleet update
+- [#125315](https://github.com/NousResearch/hermes-agent/pull/125315) plugin-catalog: add memex8 memory provider
+- [#125387](https://github.com/NousResearch/hermes-agent/pull/125387) plugin-catalog: bump bridge-adapter pin 073f2e8 -> 8de6264
+- [#125392](https://github.com/NousResearch/hermes-agent/pull/125392) feat(cron): per-job Python interpreter for cron scripts (salvage #70500)
+- [#125406](https://github.com/NousResearch/hermes-agent/pull/125406) plugins: add Inline platform to the curated catalog
+- [#125453](https://github.com/NousResearch/hermes-agent/pull/125453) fix(goals): run quality gates in the session workspace, never elsewhere
+- [#125468](https://github.com/NousResearch/hermes-agent/pull/125468) ffmpeg installs stop expiring: pin BtbN's retained month-end build, and pm update only picks those (#125350)
+- [#125471](https://github.com/NousResearch/hermes-agent/pull/125471) refactor(plugin-catalog): rename browserclaw to browserpaw
+- [#125488](https://github.com/NousResearch/hermes-agent/pull/125488) fix(email): require an authenticated From: under open access
+- [#125523](https://github.com/NousResearch/hermes-agent/pull/125523) fix(desktop): compare transcript tips, not counts, in the stale-send guard
+- [#125538](https://github.com/NousResearch/hermes-agent/pull/125538) website: catalog card banner slot at the 2:1 catalog ratio (stop cropping authored banners)
+- [#125543](https://github.com/NousResearch/hermes-agent/pull/125543) fix(desktop): show saved key previews without the backend's redaction sentinel
+- [#125544](https://github.com/NousResearch/hermes-agent/pull/125544) fix(desktop): don't offer Rename on canonical Bot Chat tabs
+- [#125545](https://github.com/NousResearch/hermes-agent/pull/125545) fix(desktop): refresh the open transcript when the window is viewed again
+- [#125546](https://github.com/NousResearch/hermes-agent/pull/125546) fix(desktop): name web, browser and vision tool runs for what they did
+- [#125548](https://github.com/NousResearch/hermes-agent/pull/125548) fix(desktop): paint OS-dropped images as thumbnails in sent messages
+- [#125551](https://github.com/NousResearch/hermes-agent/pull/125551) fix(desktop): honour a user-set voice.silence_duration in the voice loop
+- [#125553](https://github.com/NousResearch/hermes-agent/pull/125553) chore(catalog): update secure-env-ingress to 0.6.4
+- [#125559](https://github.com/NousResearch/hermes-agent/pull/125559) fix(bot-mode): prefer the installation-bound launcher for Bot deliveries
+- [#125589](https://github.com/NousResearch/hermes-agent/pull/125589) fix: Hermes never falls back to the user's node/npm/npx/uv
+- [#125598](https://github.com/NousResearch/hermes-agent/pull/125598) fix(install): fresh Windows 10 installs no longer die unpacking pinned Git (PortableGit, salvage #123094)
+- [#125606](https://github.com/NousResearch/hermes-agent/pull/125606) Windows install wrappers passing -SkipSetup no longer die at binding (#125350, salvage #125371)
+- [#125616](https://github.com/NousResearch/hermes-agent/pull/125616) fix(desktop): keep archived sessions archived and renames consistent across session lists
+- [#125622](https://github.com/NousResearch/hermes-agent/pull/125622) Bump mnemostack to 1.0.3
+- [#125631](https://github.com/NousResearch/hermes-agent/pull/125631) fix(update): narrow tag-pinned clones update instead of reporting main missing
+- [#125635](https://github.com/NousResearch/hermes-agent/pull/125635) MCP stdio servers keep their configured PATH order again (revert #124792)
+- [#125643](https://github.com/NousResearch/hermes-agent/pull/125643) fix(ci): stable-release legs can read release-signing secrets
+- [#125644](https://github.com/NousResearch/hermes-agent/pull/125644) MCP servers with a native addon built by another Node now say so and name the rebuild under Hermes's Node (#124264)
+- [#125645](https://github.com/NousResearch/hermes-agent/pull/125645) fix(desktop): keep the legacy Linux desktop entry as a hidden alias
+- [#125646](https://github.com/NousResearch/hermes-agent/pull/125646) fix(desktop): stop finished replies rendering twice after settle
+- [#125647](https://github.com/NousResearch/hermes-agent/pull/125647) fix(desktop): show why a Kanban task is blocked and let it be unblocked
+- [#125661](https://github.com/NousResearch/hermes-agent/pull/125661) catalog: add Vault View v0.4.8 with pinned source and banner
+- [#125665](https://github.com/NousResearch/hermes-agent/pull/125665) catalog: session-dashboard — pin f5a880c + social preview image
+- [#125681](https://github.com/NousResearch/hermes-agent/pull/125681) fix(desktop): Hermes's own children run the store node/npm/uv, not the login shell's
+- [#125691](https://github.com/NousResearch/hermes-agent/pull/125691) hermes update no longer exits 1 over a respawned dashboard's unreaped zombie (handoff E2E, carries #125682)
+- [#125716](https://github.com/NousResearch/hermes-agent/pull/125716) fix(plugins): keep the catalog date probe off lazy fetches on treeless clones
+- [#125720](https://github.com/NousResearch/hermes-agent/pull/125720) feat(plugin-catalog): add made-shelf community plugin
+- [#125721](https://github.com/NousResearch/hermes-agent/pull/125721) fix: Hermes's own lint, activate, tui and MCP launchers use PM's node/npx/uv, never the user's
+- [#125740](https://github.com/NousResearch/hermes-agent/pull/125740) catalog: bump telegram-notify to v1.1.3
+- [#125752](https://github.com/NousResearch/hermes-agent/pull/125752) fix(docker): use packaged Python for TUI gateway
+- [#125755](https://github.com/NousResearch/hermes-agent/pull/125755) fix(child-env): keep declared adapter secrets and Hermes' own secrets out of agent children (salvage #122751, #125191)
+- [#125757](https://github.com/NousResearch/hermes-agent/pull/125757) plugin-catalog: bump memex8 to v1.1.0
+- [#125769](https://github.com/NousResearch/hermes-agent/pull/125769) fix: fresh installs ship cua-driver and the Browser Use CLI again (salvage #122428)
+- [#125786](https://github.com/NousResearch/hermes-agent/pull/125786) fix(desktop): ⌘1…⌘9 switch the tab under the pointer again, and profiles when there is none
+- [#125787](https://github.com/NousResearch/hermes-agent/pull/125787) fix(desktop): keep large pastes as a chip after the turn is stored
+- [#125789](https://github.com/NousResearch/hermes-agent/pull/125789) feat(plugin-catalog): bump memory-rewind to 1.3.2 and fit its card in the plugin page header
+- [#125797](https://github.com/NousResearch/hermes-agent/pull/125797) feat(tui_gateway): session.archive RPC + inline_images=false history reads
+- [#125798](https://github.com/NousResearch/hermes-agent/pull/125798) fmt(js): `npm run fix` auto-fix
+- [#125800](https://github.com/NousResearch/hermes-agent/pull/125800) feat(desktop): reasoning level up/down keybind actions
+- [#125801](https://github.com/NousResearch/hermes-agent/pull/125801) feat(desktop): skip staging for local OS drops; keep inline @file refs
+- [#125803](https://github.com/NousResearch/hermes-agent/pull/125803) feat(tui): /s alias for /steer, double-Esc interrupt, PTT cuts TTS
+- [#125811](https://github.com/NousResearch/hermes-agent/pull/125811) fix(model): split comma-separated fallback chains into picker entries
+- [#125816](https://github.com/NousResearch/hermes-agent/pull/125816) feat(tui): attachments.storage config to stage attachments in the profile workspace
+- [#125819](https://github.com/NousResearch/hermes-agent/pull/125819) fmt(js): `npm run fix` auto-fix
+- [#125836](https://github.com/NousResearch/hermes-agent/pull/125836) chore(plugin-catalog): bump next-prompt to 0.3.0
+- [#125856](https://github.com/NousResearch/hermes-agent/pull/125856) plugin-catalog: add unbrowse
+- [#125870](https://github.com/NousResearch/hermes-agent/pull/125870) fmt(js): `npm run fix` auto-fix
+- [#125878](https://github.com/NousResearch/hermes-agent/pull/125878) feat(desktop): let the show-ignored toggle reveal hygiene dirs like out/ and vendor/
+- [#125900](https://github.com/NousResearch/hermes-agent/pull/125900) fix(desktop): keep Markdown link destinations un-chipped (#125886)
+- [#125902](https://github.com/NousResearch/hermes-agent/pull/125902) Catalog: hermes-rich-ui v0.1.0 @ 754ae51
+- [#125916](https://github.com/NousResearch/hermes-agent/pull/125916) docs(website): Terms of Service + Privacy Policy links on Plugin Catalog and Skills Hub
+- [#125931](https://github.com/NousResearch/hermes-agent/pull/125931) Catalog: add bunny_space-platform (Bunny Space platform adapter)
+- [#125936](https://github.com/NousResearch/hermes-agent/pull/125936) chore(catalog): bump hermes-switchyard pin to b3cf546 (v0.5.6)
+- [#125945](https://github.com/NousResearch/hermes-agent/pull/125945) chore(plugin-catalog): bump hermes-lcm-x to v0.24.3
+- [#125972](https://github.com/NousResearch/hermes-agent/pull/125972) fix(desktop): stop background roster auth from opening login
+- [#125995](https://github.com/NousResearch/hermes-agent/pull/125995) Desktop app ships the default browser driver (browser-harness in the main venv)
+- [#126008](https://github.com/NousResearch/hermes-agent/pull/126008) fix(desktop): test runs stop leaking temp dirs into the scratch dir
+- [#126022](https://github.com/NousResearch/hermes-agent/pull/126022) fix(nix): fresh declarative installs no longer warn their config predates version 12
+- [#126041](https://github.com/NousResearch/hermes-agent/pull/126041) feat(plugin-catalog): add antigravity-oauth model provider plugin
+- [#126044](https://github.com/NousResearch/hermes-agent/pull/126044) feat(plugin-catalog): add PIR8 brain-graph, android-emulator, and OR Picker
+- [#126047](https://github.com/NousResearch/hermes-agent/pull/126047) fmt(js): `npm run fix` auto-fix
+- [#126062](https://github.com/NousResearch/hermes-agent/pull/126062) plugin-catalog: re-pin jev-effort-router to 562dc2a (0.2.2)
+- [#126064](https://github.com/NousResearch/hermes-agent/pull/126064) Compaction follows compression.threshold again: no default 256K token cap (#117915, #125235)
+- [#126073](https://github.com/NousResearch/hermes-agent/pull/126073) chore(catalog): bump desensitize pin to 4f6697c (v1.4.1)
+- [#126079](https://github.com/NousResearch/hermes-agent/pull/126079) Desktop repair runs the installer script from the ref its stages use (#125350, salvage #125522)
+- [#126092](https://github.com/NousResearch/hermes-agent/pull/126092) Leftover steer / interrupt follow-ups keep the channel prompt (no agent rebuild) (#125763, salvage #125783)
+- [#126093](https://github.com/NousResearch/hermes-agent/pull/126093) fix(plugin-guard): catalog false positives no longer block or prompt (denylist regex, host noun, sha256sum, SQL exec, coin keyword, JSON tips, quoted fixtures)
+- [#126113](https://github.com/NousResearch/hermes-agent/pull/126113) Updates work behind corporate CA/npm mirrors, and refused .env writes stop reporting success (#124654, #123132, #119928)
+- [#126128](https://github.com/NousResearch/hermes-agent/pull/126128) feat(catalog): add SerpApi plugin
+- [#126133](https://github.com/NousResearch/hermes-agent/pull/126133) Live gateway identity files survive matcher mismatches; bootstrap-launched record names its entry point; held lock without gateway.pid no longer aborts Windows update (#125610, #124029, #123151, #123430, salvage #125679)
+- [#126137](https://github.com/NousResearch/hermes-agent/pull/126137) fix(gateway): persist internal prompt pins across restart (salvage #125832)
+- [#126138](https://github.com/NousResearch/hermes-agent/pull/126138) Desktop settings read/write the profile they display: approval mode, terminal backend, vault scope chip, messaging token bleed (#125969 #99720 #121966 #96542)
+- [#126139](https://github.com/NousResearch/hermes-agent/pull/126139) refactor(onboarding): remove the intro cinematic, the guided-onboarding tests, and their comments
+- [#126142](https://github.com/NousResearch/hermes-agent/pull/126142) feat(plugin-catalog): add go-whatsapp
+- [#126144](https://github.com/NousResearch/hermes-agent/pull/126144) Desktop/dashboard session requests follow the session's owner connection, profile and live gateway (#125372, #125287, #124265, #120213, #121680)
+- [#126145](https://github.com/NousResearch/hermes-agent/pull/126145) Served profiles no longer inherit the launch profile's logs, log ownership, slash gating, TTS credentials or skipped .env (#125974 #120151 #121705 #120481 #125530)
+- [#126148](https://github.com/NousResearch/hermes-agent/pull/126148) Dashboard actions, sign-ins and the switcher act on the profile you pick; --profile default is the default gateway (#120688 #123616 #123980 #124283 #125025 #96712 #100817)
+- [#126149](https://github.com/NousResearch/hermes-agent/pull/126149) fix(update): bring a manual dashboard back after the PM takeover, and book a failed respawn as failed
+- [#126150](https://github.com/NousResearch/hermes-agent/pull/126150) hermes update works on shallow, stale and partial-clone checkouts (salvage #122430, #123312, #124293, #124671)
+- [#126153](https://github.com/NousResearch/hermes-agent/pull/126153) Kanban workers boot on store-Python installs; unknown assignee, gh identity and dead-credential exits fixed (#122299 #122487 #122500 #122422 #122689, salvage #122420 #122567 #122714 #122716)
+- [#126154](https://github.com/NousResearch/hermes-agent/pull/126154) chore(plugin-catalog): next-prompt hero that survives the plugin page crop
+- [#126156](https://github.com/NousResearch/hermes-agent/pull/126156) cron under multiplex: liveness, manual-run delivery, managed routes, degraded-send retention and worker secrets follow the job's owning profile (#121881 #99579 #99631 #124248 #120330 #125363 #121212 #121929)
+- [#126157](https://github.com/NousResearch/hermes-agent/pull/126157) Multiplexed gateway: session lifecycle paths bind to the routed profile's home, not the launch profile (#123584 #123618 #123989 #118233 #118862 #101134 #119121 #120212)
+- [#126159](https://github.com/NousResearch/hermes-agent/pull/126159) Desktop/TUI act on the session's owning profile, not the backend launch profile: /save, interrupt hook, /model sync, resume hint and route, slash palette, Open Logs, API-server card (8 issues, salvages 6 PRs)
+- [#126160](https://github.com/NousResearch/hermes-agent/pull/126160) Multiplex secondary profiles keep their A2A gate, Buzz config, plugin injector, MCP headers, describe and tools.list scoped to the served profile (#122126 #125985 #125102 #119092 #120726 #117977)
+- [#126163](https://github.com/NousResearch/hermes-agent/pull/126163) Gateway status, update, dashboard and served-profile guard stop lying about multiplex/standalone state (#120991 #125390 #123088 #123869 #121352 #120871 #124553, salvage #120997 #125397 #123106 #121574 #122169 #124669)
+- [#126164](https://github.com/NousResearch/hermes-agent/pull/126164) Old pre-decomposition import paths are gone: plugin compat layer removed on schedule
+- [#126165](https://github.com/NousResearch/hermes-agent/pull/126165) Off-turn work (curator, deferred reviews, catalog SWR, plugin API routes, ledger replay) runs under the requesting profile; import model_tools no longer creates state.db (#125032 #108537 #120310 #123372 #103778 #123265)
+- [#126166](https://github.com/NousResearch/hermes-agent/pull/126166) hermes update tells the truth about git state: no false divergence, no update under a rebase, no 'complete' with a parked patch, works from a PM venv
+- [#126172](https://github.com/NousResearch/hermes-agent/pull/126172) fix(pm): package-manager installs keep features, deps and diagnostics across updates (salvage #124060, #124246, #124446, #124656)
+- [#126176](https://github.com/NousResearch/hermes-agent/pull/126176) fix(logs): desktop.log uses local time, and hermes logs --since works on every log file
+- [#126178](https://github.com/NousResearch/hermes-agent/pull/126178) Held SQLite locks no longer read as dropped under parallel load (preview lock test flake, write-lock owner warning)
+- [#126179](https://github.com/NousResearch/hermes-agent/pull/126179) hermes update stops killing look-alike processes; SHA-less restart obligations, default config migration, lease leaks, agent PATH and Windows SSH home probe fixed (#121156 #125952 #105013 #125609 #124627 #118988)
+- [#126182](https://github.com/NousResearch/hermes-agent/pull/126182) Desktop composer, tabs and Bot Chat state survive resumes, profile/connection switches and toolset edits (#125336 #125678 #123805 #122190 #124211 #120106 #125394)
+- [#126184](https://github.com/NousResearch/hermes-agent/pull/126184) Unit/slot lifecycle keeps one boot-startable gateway across migrate, rename/delete, start --all, s6 boot and systemd unit resolution (#124922 P1 + 7)
+- [#126191](https://github.com/NousResearch/hermes-agent/pull/126191) fix(worktree): branch from the remote tip on tag-pinned narrow checkouts
+- [#126193](https://github.com/NousResearch/hermes-agent/pull/126193) feat(plugin-catalog): add tam memory provider (total-agent-memory)
+- [#126204](https://github.com/NousResearch/hermes-agent/pull/126204) fix(state): bound macOS deleted-WAL holder scan with fail-open timeout
+- [#126206](https://github.com/NousResearch/hermes-agent/pull/126206) fix(update): count from the running checkout and roll back to it after a branch switch
+- [#126226](https://github.com/NousResearch/hermes-agent/pull/126226) Browser works again on older installs, execute_code stops hiding failed writes, profiles share one cached prompt prefix
+- [#126238](https://github.com/NousResearch/hermes-agent/pull/126238) feat(plugin-catalog): add reaction-feedback
+- [#126239](https://github.com/NousResearch/hermes-agent/pull/126239) fix(lsp): never run a cloned repo's own interpreter, SDK or plugins; trust the session's workspace (salvage #125955)
+- [#126244](https://github.com/NousResearch/hermes-agent/pull/126244) fix(gateway): tell users their idle/daily session_reset is no longer applied
+- [#126248](https://github.com/NousResearch/hermes-agent/pull/126248) fix(oauth): Qwen OAuth status card shows the token expiry, token preview and credentials path
+- [#126249](https://github.com/NousResearch/hermes-agent/pull/126249) fix(analytics): daily usage buckets use local days, matching /insights
+- [#126251](https://github.com/NousResearch/hermes-agent/pull/126251) fix(gateway): auto-resume no longer skips a fresh interrupted session after a DST change
+- [#126252](https://github.com/NousResearch/hermes-agent/pull/126252) fix(gateway): launchd gateway stdout lines in gateway.log carry timestamps
+- [#126257](https://github.com/NousResearch/hermes-agent/pull/126257) fix(time): session start in the system prompt keeps its own date across a DST change
+- [#126258](https://github.com/NousResearch/hermes-agent/pull/126258) fix(cron): execution, delivery and incident history ordered by instant, not by text (#86520)
+- [#126259](https://github.com/NousResearch/hermes-agent/pull/126259) fix(whatsapp): every bridge.log console line carries a timestamp (#97021, salvages #97105)
+- [#126296](https://github.com/NousResearch/hermes-agent/pull/126296) feat(i18n): pluggable, layered language packs across Core, TUI and Desktop; every user-facing string through t(); full 16-locale parity
+- [#126309](https://github.com/NousResearch/hermes-agent/pull/126309) fix(agent): concurrent API requests on a new session id no longer interleave their turns (#125124, salvage #125125)
+- [#126327](https://github.com/NousResearch/hermes-agent/pull/126327) fix(agent): re-derive no-human batch approvals from the policy in force at execution
+- [#126332](https://github.com/NousResearch/hermes-agent/pull/126332) fmt(js): `npm run fix` auto-fix
+- [#126340](https://github.com/NousResearch/hermes-agent/pull/126340) feat(plugin-catalog): add ntfy-approval
+- [#126344](https://github.com/NousResearch/hermes-agent/pull/126344) Restart-safe cron jobs no longer die on 'No module named ruamel' under multiplex, and fail closed on a broken PM boot (#122222, salvage #122936)
+- [#126345](https://github.com/NousResearch/hermes-agent/pull/126345) fix(desktop): tolerate a throwing disposer so a failed plugin load cannot wedge the registry
+- [#126357](https://github.com/NousResearch/hermes-agent/pull/126357) fix(desktop): keep the Linux tray across a minimize toggle
+- [#126361](https://github.com/NousResearch/hermes-agent/pull/126361) fix(desktop): dev boot renders again (combo.ts ↔ actions.ts import cycle)
+- [#126363](https://github.com/NousResearch/hermes-agent/pull/126363) fmt(js): `npm run fix` auto-fix
+- [#126369](https://github.com/NousResearch/hermes-agent/pull/126369) catalog: bump hermes-discord-rpc to v1.2.5
+- [#126371](https://github.com/NousResearch/hermes-agent/pull/126371) chore(catalog): update hermes-speech to v0.3.3
+- [#126374](https://github.com/NousResearch/hermes-agent/pull/126374) feat(plugin-catalog): list hermes-session-reset-policy (opt-in idle/daily gateway resets)
+- [#126376](https://github.com/NousResearch/hermes-agent/pull/126376) feat(plugin-catalog): add deja-vu memory provider
+- [#126409](https://github.com/NousResearch/hermes-agent/pull/126409) fix(codex): web searches stay a search card after refresh (salvage #66995)
+- [#126427](https://github.com/NousResearch/hermes-agent/pull/126427) fix(desktop): report the current commit in updater status
+- [#126428](https://github.com/NousResearch/hermes-agent/pull/126428) fix(desktop): let hidden models be restored in the model picker
+- [#126471](https://github.com/NousResearch/hermes-agent/pull/126471) fix(state): a busy state.db no longer reads as another process holding the session
+- [#126472](https://github.com/NousResearch/hermes-agent/pull/126472) fix(tui,desktop): launch cwd, double-render, and stale-transcript regressions
+- [#126473](https://github.com/NousResearch/hermes-agent/pull/126473) fix(state): turn-lease rows left by dead holders are swept after 24h
+- [#126479](https://github.com/NousResearch/hermes-agent/pull/126479) Hiding reasoning no longer hides tool rows, and tool_progress: off no longer hides reasoning (salvage #125948)
+- [#126488](https://github.com/NousResearch/hermes-agent/pull/126488) plugin-catalog: bump hermes-session-reset-policy to 0.3.0 (/new funnel + policy-reader #4 fix)
+- [#126490](https://github.com/NousResearch/hermes-agent/pull/126490) Two tui_gateway server tests no longer fail on signed-in hosts or race the ctime clock (salvage #93665)
+- [#126509](https://github.com/NousResearch/hermes-agent/pull/126509) fix(models): make MoA strictly opt-in in every model picker
+- [#126527](https://github.com/NousResearch/hermes-agent/pull/126527) fix(desktop): readable, dismissible stale-aux warning banner
+- [#126535](https://github.com/NousResearch/hermes-agent/pull/126535) feat(desktop): star models into a Favorites section of the model picker
+- [#126536](https://github.com/NousResearch/hermes-agent/pull/126536) feat(desktop): copy full changelog from the updates overlay
+- [#126543](https://github.com/NousResearch/hermes-agent/pull/126543) feat(desktop): drag a sidebar session onto a project row to move it
+- [#126544](https://github.com/NousResearch/hermes-agent/pull/126544) fix(desktop): close affordances for the preview/browser pane
+- [#126546](https://github.com/NousResearch/hermes-agent/pull/126546) fix(desktop): stop capping the composer model pill width
+- [#126547](https://github.com/NousResearch/hermes-agent/pull/126547) feat(desktop): let queued prompts expand to their full text
+- [#126569](https://github.com/NousResearch/hermes-agent/pull/126569) Catalog: hermes-rich-ui v0.1.4 @ 693fe29
+- [#126605](https://github.com/NousResearch/hermes-agent/pull/126605) fix(cli): keep key_env when saving a legacy custom endpoint
+- [#126615](https://github.com/NousResearch/hermes-agent/pull/126615) Unanswered user text survives the next turn's persist override (#124731, salvage #124770)
+- [#126625](https://github.com/NousResearch/hermes-agent/pull/126625) fix(desktop): a redelivered interim or long final no longer renders twice
+- [#126633](https://github.com/NousResearch/hermes-agent/pull/126633) feat(plugin-catalog): add hermes-toon
+- [#126637](https://github.com/NousResearch/hermes-agent/pull/126637) feat(plugin-catalog): add prompt-studio 1.8.0
+- [#126643](https://github.com/NousResearch/hermes-agent/pull/126643) fix(agent): Desktop compaction keeps the configured context cwd (salvage #126169)
+- [#126650](https://github.com/NousResearch/hermes-agent/pull/126650) fix(desktop): Linux launcher targets a CLI that can serve the app and skips the rebuild
+- [#126651](https://github.com/NousResearch/hermes-agent/pull/126651) feat(desktop): per-model pricing with cached-read rates in the model catalog menu (supersedes #84831)
+- [#126653](https://github.com/NousResearch/hermes-agent/pull/126653) feat(desktop): show the session compression count in the context meter
+- [#126658](https://github.com/NousResearch/hermes-agent/pull/126658) feat(desktop): search inside log tails with next/prev and severity marks
+- [#126660](https://github.com/NousResearch/hermes-agent/pull/126660) feat(desktop): filter Messaging platforms by status
+- [#126670](https://github.com/NousResearch/hermes-agent/pull/126670) fix(desktop): route last week's hand-rolled UI back through the shared primitives
+- [#126683](https://github.com/NousResearch/hermes-agent/pull/126683) catalog: add hermes-chutes-provider (Chutes models via API key)
+- [#126687](https://github.com/NousResearch/hermes-agent/pull/126687) feat(sessions): stable per-message identity for context engines (salvage #126307)
+- [#126717](https://github.com/NousResearch/hermes-agent/pull/126717) chore(plugin-catalog): telegram_dashboard_probe 0.9.2 (review nits closed, title and screenshots, disclosure for limits_sources, errors.log, cron files and the Telegram adapter's counters)
+- [#126726](https://github.com/NousResearch/hermes-agent/pull/126726) feat(plugin-catalog): add minimax-search (community, web)
+- [#126739](https://github.com/NousResearch/hermes-agent/pull/126739) fix(plugin-catalog): ship OR Picker as one entry
+- [#126740](https://github.com/NousResearch/hermes-agent/pull/126740) fix(modal): persistent sandbox snapshots no longer expire after 30 days (modal 1.5.5, ttl=None)
+- [#126741](https://github.com/NousResearch/hermes-agent/pull/126741) feat(vercel): fresh sandboxes use a managed image (universal:latest); runtime presets deprecated, migration 49
+- [#126742](https://github.com/NousResearch/hermes-agent/pull/126742) feat(plugin-catalog): bump bot-forge to v0.17.0
+- [#126752](https://github.com/NousResearch/hermes-agent/pull/126752) fix(tui-gateway): stop activity heartbeats from broadcasting sessions.changed
+- [#126788](https://github.com/NousResearch/hermes-agent/pull/126788) fix(desktop): show the custom SSH host input on the first Custom pick
+- [#126792](https://github.com/NousResearch/hermes-agent/pull/126792) fix(desktop): keep completed tool cards after a text-only transcript refresh
+- [#126799](https://github.com/NousResearch/hermes-agent/pull/126799) hermes update puts back a removed /Applications/Hermes.app, so Spotlight finds Hermes again
+- [#126800](https://github.com/NousResearch/hermes-agent/pull/126800) Tests can no longer delete the developer's installed Hermes desktop app
+- [#126804](https://github.com/NousResearch/hermes-agent/pull/126804) Desktop rebuild no longer strips apostrophes from paths or needs the cross-env bin (#103010, #110121)
+- [#126812](https://github.com/NousResearch/hermes-agent/pull/126812) test(local-runtime): racing-callers fake publishes a modern state record (main red since 65ff3ad353)
+- [#126839](https://github.com/NousResearch/hermes-agent/pull/126839) catalog: add Hermes Notch Plugin
+- [#126842](https://github.com/NousResearch/hermes-agent/pull/126842) feat(models): add anthropic/claude-sonnet-5.5 to OpenRouter and Nous Portal catalogs
+- [#126859](https://github.com/NousResearch/hermes-agent/pull/126859) Catalog: pinned-folders v0.1.2 @ 7ab24e18
+- [#126866](https://github.com/NousResearch/hermes-agent/pull/126866) fmt(js): `npm run fix` auto-fix
+- [#126891](https://github.com/NousResearch/hermes-agent/pull/126891) Shared-metrics opt-in is offered on every surface, and a 'no' sticks
+- [#126901](https://github.com/NousResearch/hermes-agent/pull/126901) fix(bot-mode): a live-admitted DM stays ambiguous when its delivery runner cannot boot
+- [#126904](https://github.com/NousResearch/hermes-agent/pull/126904) fmt(js): `npm run fix` auto-fix
+- [#126911](https://github.com/NousResearch/hermes-agent/pull/126911) Third-party plugins can run in a per-profile plugin host process (plugins.isolation: host)
+- [#126918](https://github.com/NousResearch/hermes-agent/pull/126918) plugin-catalog: add evalroute (community, tools)
+- [#126937](https://github.com/NousResearch/hermes-agent/pull/126937) feat(plugin-catalog): add snag-shelf community plugin
+- [#126960](https://github.com/NousResearch/hermes-agent/pull/126960) fix(tui_gateway): no automatic model turn starts after the user presses Stop
+- [#126973](https://github.com/NousResearch/hermes-agent/pull/126973) fix(desktop): Desktop cron takes over when a gateway live at backend start goes away
+- [#126976](https://github.com/NousResearch/hermes-agent/pull/126976) fix(desktop): find a source install through its published user-bin launcher
+- [#126982](https://github.com/NousResearch/hermes-agent/pull/126982) fix(cron): restore routed-fire secret isolation removed by 23036e20a6 (#126492)
+- [#126983](https://github.com/NousResearch/hermes-agent/pull/126983) fix(tui-gateway): answer gateway.ping while a WS handler blocks dispatch
+- [#126985](https://github.com/NousResearch/hermes-agent/pull/126985) fix(api_server): honour include_compacted on /api/sessions/{id}/messages
+- [#126986](https://github.com/NousResearch/hermes-agent/pull/126986) fix(desktop): only the last holder exits a shared SSH ControlMaster
+- [#126988](https://github.com/NousResearch/hermes-agent/pull/126988) fix(shared): never dispatch a truncated reconnect replay tail
+- [#126989](https://github.com/NousResearch/hermes-agent/pull/126989) fix(update): record Desktop's correlation_id in the update receipt
+- [#126995](https://github.com/NousResearch/hermes-agent/pull/126995) fix(update): keep never-pushed and unmerged branches pinned in source check
+- [#126997](https://github.com/NousResearch/hermes-agent/pull/126997) fix(desktop): resolve the Windows ssh client instead of hard-coding System32 OpenSSH
+- [#126999](https://github.com/NousResearch/hermes-agent/pull/126999) fix(tui_gateway): a restart retires the never-drained busy-queue accept row
+- [#127005](https://github.com/NousResearch/hermes-agent/pull/127005) fix(local-runtime): spill only the recurrent FFN blocks a hybrid needs
+- [#127006](https://github.com/NousResearch/hermes-agent/pull/127006) fix(desktop,i18n): regenerate _keys.desktop.json so JS & TS checks pass on main
+- [#127008](https://github.com/NousResearch/hermes-agent/pull/127008) fix(desktop): bound managed SSH durable recovery when a scope never restores
+- [#127012](https://github.com/NousResearch/hermes-agent/pull/127012) fix(local-models): identify N1X by PCI vendor/device ID
+- [#127014](https://github.com/NousResearch/hermes-agent/pull/127014) fix(tui_gateway): keep a container backend's terminal.cwd as the session workspace
+- [#127015](https://github.com/NousResearch/hermes-agent/pull/127015) fix(agent): carry a custom provider's extra_body into TUI/Desktop agents and aux calls
+- [#127017](https://github.com/NousResearch/hermes-agent/pull/127017) docs(website): move Terms/Privacy links into the catalog page heroes
+- [#127019](https://github.com/NousResearch/hermes-agent/pull/127019) fix(sessions): un-hide an auto-archived chat when it is resumed or compressed
+- [#127028](https://github.com/NousResearch/hermes-agent/pull/127028) fix(desktop): don't offer the real-profile consent prompt on remote backends
+- [#127030](https://github.com/NousResearch/hermes-agent/pull/127030) fix(desktop): ack inline-preview widget intents instead of truncating or dropping them
+- [#127032](https://github.com/NousResearch/hermes-agent/pull/127032) fix(desktop): break win32 fs.watch event storms by falling back to polling
+- [#127033](https://github.com/NousResearch/hermes-agent/pull/127033) fix(desktop): a redirect inside a regenerated turn keeps the partial reply on screen
+- [#127035](https://github.com/NousResearch/hermes-agent/pull/127035) fix(update): report a symlinked other-install profile gateway as external, not unaccounted
+- [#127038](https://github.com/NousResearch/hermes-agent/pull/127038) fix(desktop): keep a streamed reply over an empty committed tool shell
+- [#127039](https://github.com/NousResearch/hermes-agent/pull/127039) fix(desktop): refuse window-owned pane requests at once when no window shows the session
+- [#127046](https://github.com/NousResearch/hermes-agent/pull/127046) fix(desktop): mark stopped replies and keep failed-turn error cards across restarts
+- [#127048](https://github.com/NousResearch/hermes-agent/pull/127048) fix(desktop): keep the NVIDIA proprietary driver on XWayland by default
+- [#127050](https://github.com/NousResearch/hermes-agent/pull/127050) fix(desktop): reuse preview webview guest across URL changes
+- [#127051](https://github.com/NousResearch/hermes-agent/pull/127051) fix(desktop): keep clarify/connection cards open for /btw and /bg side tasks
+- [#127052](https://github.com/NousResearch/hermes-agent/pull/127052) fix(desktop): rebuild every terminal's WebGL atlas on shared-atlas clears, context loss, and system resume
+- [#127056](https://github.com/NousResearch/hermes-agent/pull/127056) fix(desktop): drop voice-conversation barge captures that echo the spoken reply
+- [#127062](https://github.com/NousResearch/hermes-agent/pull/127062) perf(desktop): share thread-message position lookups across transcript rows
+- [#127071](https://github.com/NousResearch/hermes-agent/pull/127071) catalog: bump antigravity-subscription-directsdk pin to v1.0.6
+- [#127117](https://github.com/NousResearch/hermes-agent/pull/127117) fix(whatsapp,photon): don't read a signal-raced child exit as a fatal crash
+- [#127175](https://github.com/NousResearch/hermes-agent/pull/127175) fix(install): preserve apostrophe paths in Windows runtime launch
+- [#127197](https://github.com/NousResearch/hermes-agent/pull/127197) fix(wake): recover transient capture read failures and fall back to blocking reads when read_available stalls
+- [#127200](https://github.com/NousResearch/hermes-agent/pull/127200) fix(desktop): add the review-pane diff scope selector docs already promise
+- [#127201](https://github.com/NousResearch/hermes-agent/pull/127201) fix(desktop): restore YouTube embeds in the packaged app
+- [#127207](https://github.com/NousResearch/hermes-agent/pull/127207) fix(debug): redact fallback provider credentials in hermes dump, debug share and /debug
+- [#127209](https://github.com/NousResearch/hermes-agent/pull/127209) fix(cli,desktop): hide every console-subsystem child spawn on Windows
+- [#127210](https://github.com/NousResearch/hermes-agent/pull/127210) fix(desktop): quote spaced Windows shell commands before cmd.exe truncates them
+- [#127213](https://github.com/NousResearch/hermes-agent/pull/127213) fix(desktop): type the media permission handlers without casts
+- [#127217](https://github.com/NousResearch/hermes-agent/pull/127217) fix(desktop): Windows layered-window maximize breakage and stale fullscreen bounds
+- [#127225](https://github.com/NousResearch/hermes-agent/pull/127225) fix(desktop): policy-aware macOS re-signing — framework entitlements, pinned ad-hoc fallback, no publisher-signing downgrade
+- [#127229](https://github.com/NousResearch/hermes-agent/pull/127229) fix(security): harden at-rest secrets in browser profiles, media caches, and the in-flight journal
+- [#127230](https://github.com/NousResearch/hermes-agent/pull/127230) fix(desktop): keep a pending streamed reply over a divergent same-turn store partial
+- [#127231](https://github.com/NousResearch/hermes-agent/pull/127231) fix(desktop): hold the create guard until the route catches up to the new session
+- [#127232](https://github.com/NousResearch/hermes-agent/pull/127232) fix(desktop): boot a peer window onto the fresh draft, not the primary's remembered session
+- [#127237](https://github.com/NousResearch/hermes-agent/pull/127237) fix(build,update): OS metadata, stamp-clock races and stacked completions break the desktop freshness pipeline
+- [#127238](https://github.com/NousResearch/hermes-agent/pull/127238) fix(marker): zombie-aware stale-marker self-heal across Rust, Python, and Electron readers
+- [#127239](https://github.com/NousResearch/hermes-agent/pull/127239) fix(desktop): one cross-window relay for Browser pop-out control and comment handoff
+- [#127241](https://github.com/NousResearch/hermes-agent/pull/127241) fix(tui_gateway): answer /context in-process and run /refine on local sessions
+- [#127243](https://github.com/NousResearch/hermes-agent/pull/127243) fix(desktop): release keyboard focus when hiding to the tray on Windows
+- [#127244](https://github.com/NousResearch/hermes-agent/pull/127244) fix(tui-gateway): fail fast when the preview act bridge cannot answer
+- [#127245](https://github.com/NousResearch/hermes-agent/pull/127245) fix(tools): tool_call scope gate names the missing GUI surface for preview tools
+- [#127247](https://github.com/NousResearch/hermes-agent/pull/127247) fix(desktop): zoom, pan and pinch in the image lightbox instead of fit-only
+- [#127248](https://github.com/NousResearch/hermes-agent/pull/127248) fix(desktop): trim trailing punctuation from bare MEDIA tag captures and reject degenerate paths
+- [#127251](https://github.com/NousResearch/hermes-agent/pull/127251) fix(desktop): submit barge-in captures against live busy state and park undeliverable transcripts
+- [#127252](https://github.com/NousResearch/hermes-agent/pull/127252) fix(preview): real input events for drive_preview type (React/contenteditable/Enter)
+- [#127255](https://github.com/NousResearch/hermes-agent/pull/127255) fix(tui-gateway): keep replay seq monotonic across ring eviction
+- [#127259](https://github.com/NousResearch/hermes-agent/pull/127259) fix(desktop): give the gateway save dialog a file type to keep
+- [#127265](https://github.com/NousResearch/hermes-agent/pull/127265) Python lints lane green again: portable bash shebang in the remote-lifecycle test fixture
+- [#127269](https://github.com/NousResearch/hermes-agent/pull/127269) fix(desktop): clear a stale Linux SingletonLock instead of silently exiting
+- [#127270](https://github.com/NousResearch/hermes-agent/pull/127270) fix(desktop): quit confirmation bypassed by closing the last window
+- [#127272](https://github.com/NousResearch/hermes-agent/pull/127272) fix(desktop): stop interrupted sessions and stale history from pinning subagent rows
+- [#127275](https://github.com/NousResearch/hermes-agent/pull/127275) fix(desktop): client-direct STT hallucination filter and voice.barge_in pref
+- [#127281](https://github.com/NousResearch/hermes-agent/pull/127281) fix(desktop): surface staged skill-write review on the desktop and TUI
+- [#127286](https://github.com/NousResearch/hermes-agent/pull/127286) fix(desktop): scale the native window-controls overlay with zoom
+- [#127289](https://github.com/NousResearch/hermes-agent/pull/127289) feat(plugin-catalog): add Jira Browser
+- [#127293](https://github.com/NousResearch/hermes-agent/pull/127293) fix(desktop): branch transcript path cards on local filesystem state
+- [#127300](https://github.com/NousResearch/hermes-agent/pull/127300) feat(plugin-catalog): add groq-provider
+- [#127344](https://github.com/NousResearch/hermes-agent/pull/127344) feat(plugin-catalog): add cloudflare-workers-ai-provider
+- [#127448](https://github.com/NousResearch/hermes-agent/pull/127448) Desktop opens new installs at a screen-sized window and 110% zoom
+- [#127451](https://github.com/NousResearch/hermes-agent/pull/127451) plugin-catalog: add kanban-live-gantt
+- [#127474](https://github.com/NousResearch/hermes-agent/pull/127474) fix(desktop): hide Queue action while composer is idle
+- [#127486](https://github.com/NousResearch/hermes-agent/pull/127486) Free tier: separate 'account exists' from 'runs this chat', and stop the mint from writing active_provider
+- [#127596](https://github.com/NousResearch/hermes-agent/pull/127596) fix(cron): keep a sticky last_failure stamp so a healed no_agent script failure stays visible
+- [#127618](https://github.com/NousResearch/hermes-agent/pull/127618) catalog(quota): re-pin to v2.8.1
+- [#127656](https://github.com/NousResearch/hermes-agent/pull/127656) Legacy venv hermes wrapper is replaced on update (salvage #123734)
+- [#127672](https://github.com/NousResearch/hermes-agent/pull/127672) fix(deps): runtime lazy installer calls no longer start update takeovers (#122326, salvage #122341)
+- [#127674](https://github.com/NousResearch/hermes-agent/pull/127674) hermes update and the installer rerun get partial clones past the git 2.53+ pack-objects crash (salvage #127149)
+- [#127681](https://github.com/NousResearch/hermes-agent/pull/127681) A deleted sticky profile no longer locks out profile use default and uninstall (salvage #127441)
+- [#127686](https://github.com/NousResearch/hermes-agent/pull/127686) feat(plugin-catalog): add letsfg
+- [#127692](https://github.com/NousResearch/hermes-agent/pull/127692) Update tails no longer start nested copies of themselves when the lock can't protect them (salvage #123046)
+- [#127701](https://github.com/NousResearch/hermes-agent/pull/127701) Desktop HUD note fires again when tool search defers the desktop tools
+- [#127712](https://github.com/NousResearch/hermes-agent/pull/127712) test: remove 31 tests that could not fail or repeated a keeper, and two test-only helpers
+- [#127715](https://github.com/NousResearch/hermes-agent/pull/127715) fix(update): sentinel-gate the historical takeover handoff so no updater window is lost
+- [#127730](https://github.com/NousResearch/hermes-agent/pull/127730) fmt(js): `npm run fix` auto-fix
+- [#127745](https://github.com/NousResearch/hermes-agent/pull/127745) Supervised gateway starts no longer re-run an unfinished update tail until the disk fills (#123340, salvage #123364)
+- [#127749](https://github.com/NousResearch/hermes-agent/pull/127749) fix(debug): mask URL tokens and passwords in debug share uploads
+- [#127754](https://github.com/NousResearch/hermes-agent/pull/127754) Live gateway without gateway.pid: real lock-holder coverage for strict identity (salvage #122188)
+- [#127760](https://github.com/NousResearch/hermes-agent/pull/127760) Clarify: one question shape and one result shape on every surface (skip, cancel, timeout and undelivered are told apart)
+- [#127781](https://github.com/NousResearch/hermes-agent/pull/127781) Inline agent tools get the shared argument repair (clarify, todo, memory, session_search)
+- [#127782](https://github.com/NousResearch/hermes-agent/pull/127782) hermes config check reports stale toolset names and disabled platforms the way the runtime sees them (salvage #127392)
+- [#127818](https://github.com/NousResearch/hermes-agent/pull/127818) Gateway first-contact note: DMs only, and the offer flag is saved in the routed profile
+- [#127828](https://github.com/NousResearch/hermes-agent/pull/127828) refactor(desktop): route tool cards and bridge events through lookup tables
+- [#127839](https://github.com/NousResearch/hermes-agent/pull/127839) fix(checkpoints): refuse rollback of uncaptured nested repos and label their checkpoints
+- [#127847](https://github.com/NousResearch/hermes-agent/pull/127847) Add qdrant memory provider to plugin catalog
+- [#127872](https://github.com/NousResearch/hermes-agent/pull/127872) Consecutive manage_connections calls share one connection card for every user
+- [#127883](https://github.com/NousResearch/hermes-agent/pull/127883) Session list stops reading every message row when planner stats predate idx_messages_session_id (#119403)
+- [#127921](https://github.com/NousResearch/hermes-agent/pull/127921) fix(desktop): avoid SSH readiness wrapper-pid race
+- [#127925](https://github.com/NousResearch/hermes-agent/pull/127925) chore(plugin-catalog): bump little-canary to 0.4.0
+- [#127932](https://github.com/NousResearch/hermes-agent/pull/127932) fix(config): make destructive replacements explicit
+- [#127950](https://github.com/NousResearch/hermes-agent/pull/127950) catalog: update hermes-auto-titler to v0.3.0
+- [#127959](https://github.com/NousResearch/hermes-agent/pull/127959) fix(desktop): use admitted release epoch for Windows native version
+- [#127978](https://github.com/NousResearch/hermes-agent/pull/127978) Config migrate and check accept mcp-<server> names for configured MCP servers (salvage #106715)
+- [#127983](https://github.com/NousResearch/hermes-agent/pull/127983) Desktop bundle-skew probes no longer pile up git processes or survive quit (#125243, salvage #126186 + #123039)
+- [#127998](https://github.com/NousResearch/hermes-agent/pull/127998) perf(desktop): the running-work arc travels a 240% layer instead of 300%, same look (#89732)
+- [#128003](https://github.com/NousResearch/hermes-agent/pull/128003) fix(desktop): a committed turn renders once when the provider reuses tool-call ids
+- [#128009](https://github.com/NousResearch/hermes-agent/pull/128009) fix(desktop): a reused tool call id no longer overwrites a finished tool row
+- [#128010](https://github.com/NousResearch/hermes-agent/pull/128010) fix(ci): card-tool contract test reads the as-const list and runs on desktop edits
+- [#128011](https://github.com/NousResearch/hermes-agent/pull/128011) fix(tools): escape drift newline doubling
+- [#128144](https://github.com/NousResearch/hermes-agent/pull/128144) fix(nix): pick up wayland in the desktop app
+- [#128150](https://github.com/NousResearch/hermes-agent/pull/128150) fix(security): the first tirith scan no longer waits on its download
+- [#128156](https://github.com/NousResearch/hermes-agent/pull/128156) Desktop release builds stop leaving their flavored icon render in the checkout
+- [#128180](https://github.com/NousResearch/hermes-agent/pull/128180) fix(desktop): keep native Wayland fullscreen windows painting
+- [#128182](https://github.com/NousResearch/hermes-agent/pull/128182) fix(desktop): keep quick-entry options readable in dark themes
+- [#128188](https://github.com/NousResearch/hermes-agent/pull/128188) fix(desktop): guarantee an exit path for a fullscreened preview pane
+- [#128192](https://github.com/NousResearch/hermes-agent/pull/128192) fix(desktop,website): bound catalog downloads by stall, not total time
+- [#128204](https://github.com/NousResearch/hermes-agent/pull/128204) fix(clarify): reject all-blank and over-limit choices; stop Desktop dropping long ones
+- [#128206](https://github.com/NousResearch/hermes-agent/pull/128206) fix(desktop): bound Linux GPU-child recovery — sandbox ladder first, software fallback on relapse
+- [#128207](https://github.com/NousResearch/hermes-agent/pull/128207) fix(desktop): drain every live voice playback on stop
+- [#128211](https://github.com/NousResearch/hermes-agent/pull/128211) fix(desktop): the onboarding tour no longer leaves a preview row for the app's own page
+- [#128218](https://github.com/NousResearch/hermes-agent/pull/128218) fix(desktop): platform-correct select-all chord and verified clear in drive_preview type
+- [#128222](https://github.com/NousResearch/hermes-agent/pull/128222) plugin-catalog: add healthrelay (read-only Apple Health MCP + skills)
+- [#128230](https://github.com/NousResearch/hermes-agent/pull/128230) fix(desktop/radio): keep the stream alive across an external pause and resume it when dictation lands
+- [#128243](https://github.com/NousResearch/hermes-agent/pull/128243) fix(desktop): fall back the Skills Hub picker to GitHub Pages when Vercel refuses
+- [#128244](https://github.com/NousResearch/hermes-agent/pull/128244) test(desktop): clarify hydration tests send the questions shape
+- [#128246](https://github.com/NousResearch/hermes-agent/pull/128246) fix(agent): route GUI launches to the Bot Screen and name it in the model context
+- [#128248](https://github.com/NousResearch/hermes-agent/pull/128248) feat(models): add gpt-6.1-sol; reasoning-off omits 'none', which 6.1 Sol 400s on
+- [#128257](https://github.com/NousResearch/hermes-agent/pull/128257) feat(plugin-catalog): add wiki-ref
+- [#128264](https://github.com/NousResearch/hermes-agent/pull/128264) fix(auth): name the auth-store lock holder and stop refresh sweeps from starving waiters
+- [#128266](https://github.com/NousResearch/hermes-agent/pull/128266) fix(desktop): read session messages from $sessionStates, not the stale global $messages mirror
+- [#128269](https://github.com/NousResearch/hermes-agent/pull/128269) fix(desktop): skip the tile transcript fetch when the sidebar row is unchanged
+- [#128270](https://github.com/NousResearch/hermes-agent/pull/128270) test(desktop): pin dirty edit blur→Enter interleaving
+- [#128273](https://github.com/NousResearch/hermes-agent/pull/128273) feat(plugin-catalog): add hermes-anilist plugin
+- [#128278](https://github.com/NousResearch/hermes-agent/pull/128278) fix(desktop): restore Skills Hub links, clipboard, and frame pinning
+- [#128281](https://github.com/NousResearch/hermes-agent/pull/128281) fix(serve): retire desktop-owned backends on code skew; guard every model-mutating path (#99859)
+- [#128282](https://github.com/NousResearch/hermes-agent/pull/128282) fix(tui_gateway): one turn's rows land in one session, and the queued row survives an in-place compaction
+- [#128285](https://github.com/NousResearch/hermes-agent/pull/128285) fix(terminal): bring macOS `open`-opened files to the front instead of behind Hermes
+- [#128289](https://github.com/NousResearch/hermes-agent/pull/128289) fix(tts): silence identifier-dense tokens in both speech normalizers
+- [#128297](https://github.com/NousResearch/hermes-agent/pull/128297) fix(desktop): distinguish transport failure classes in WS-ticket mint copy
+- [#128300](https://github.com/NousResearch/hermes-agent/pull/128300) fix(desktop): bound the remote-owner memo in the main process
+- [#128304](https://github.com/NousResearch/hermes-agent/pull/128304) fix(agent,gateway): a marker-merged user row stays addressable so prompt.submit never drops the input
+- [#128307](https://github.com/NousResearch/hermes-agent/pull/128307) feat(fast): /fast ultrafast for GPT-6 Astra, priced at the served tier (6x)
+- [#128309](https://github.com/NousResearch/hermes-agent/pull/128309) fix(desktop): reap keepalive-pinned pool backends idle past a streamed-activity TTL
+- [#128312](https://github.com/NousResearch/hermes-agent/pull/128312) fix(tui-gateway): expand stacked /skill tokens in command.dispatch
+- [#128313](https://github.com/NousResearch/hermes-agent/pull/128313) fix(gateway): send the slash worker's queued next-turn prompt instead of dropping it
+- [#128314](https://github.com/NousResearch/hermes-agent/pull/128314) fix(cli): degrade gracefully when prompt_toolkit.patch_stdout is missing
+- [#128315](https://github.com/NousResearch/hermes-agent/pull/128315) fix(skills): multi-slot skill-command cache keyed by (platform, home, project)
+- [#128318](https://github.com/NousResearch/hermes-agent/pull/128318) fix(desktop): Restore recovers from a stale durable target like Edit, on the tile surface too
+- [#128320](https://github.com/NousResearch/hermes-agent/pull/128320) fix(agent): a home working dir is a fallback, not a project
+- [#128322](https://github.com/NousResearch/hermes-agent/pull/128322) fix(desktop): suppress the pet overlay pop-in echo on quit so the popped-out state survives restart
+- [#128330](https://github.com/NousResearch/hermes-agent/pull/128330) fix(desktop): stop ambient window raises from stealing the Windows foreground during streaming
+- [#128331](https://github.com/NousResearch/hermes-agent/pull/128331) fix(gateway): titles and previews from the user's request on auto-load turns
+- [#128333](https://github.com/NousResearch/hermes-agent/pull/128333) Split activate from running a command in the dev env
+- [#128334](https://github.com/NousResearch/hermes-agent/pull/128334) A signed release tag no longer fails stable admission and reconciliation
+- [#128336](https://github.com/NousResearch/hermes-agent/pull/128336) fix(cli): bounded graceful shutdown ends a SIGTERM-orphaned serve backend (#76244)
+- [#128337](https://github.com/NousResearch/hermes-agent/pull/128337) fix(desktop): gate the NVIDIA SwiftShader fallback on a witnessed GPU-process death, not the driver series
+- [#128339](https://github.com/NousResearch/hermes-agent/pull/128339) fix(serve): parent-death watchdog runs the graceful exit path instead of os._exit (#108601)
+- [#128342](https://github.com/NousResearch/hermes-agent/pull/128342) plugin-catalog: add health-insights (local-first Apple Health analysis skills)
+- [#128343](https://github.com/NousResearch/hermes-agent/pull/128343) Free space-bunny-alpha now shows in the Nous and OpenRouter /model pickers (salvage #122087)
+- [#128346](https://github.com/NousResearch/hermes-agent/pull/128346) fix(compression): preserve legacy clarify answers without promoting notices
+- [#128348](https://github.com/NousResearch/hermes-agent/pull/128348) Release cut output shows its CI run link and leads with the next action
+- [#128354](https://github.com/NousResearch/hermes-agent/pull/128354) fix(desktop): serialize the mutable build preflight behind a cross-process lock
+- [#128360](https://github.com/NousResearch/hermes-agent/pull/128360) fix(agent): cancel a session's background review fork on teardown and /stop (#102895)
+- [#128364](https://github.com/NousResearch/hermes-agent/pull/128364) fix(tools): background process ownership follows the owner chain, including WSL launches
+- [#128386](https://github.com/NousResearch/hermes-agent/pull/128386) fix(desktop): Ctrl+W erases a word in the terminal instead of closing the pane
+- [#128387](https://github.com/NousResearch/hermes-agent/pull/128387) feat(skills): external mounts get an 'external' provenance tier (#108032)
+- [#128394](https://github.com/NousResearch/hermes-agent/pull/128394) fix(desktop): reach the opening user turn when Show-earlier hits the top
+- [#128408](https://github.com/NousResearch/hermes-agent/pull/128408) fix(plugins): memory provider setup lists the dependencies PM would install
+- [#128409](https://github.com/NousResearch/hermes-agent/pull/128409) fix(desktop): prune dead session references from renderer storage (#79001)
+- [#128416](https://github.com/NousResearch/hermes-agent/pull/128416) fix(desktop): keep rejected submit restore out of the newly focused composer
+- [#128417](https://github.com/NousResearch/hermes-agent/pull/128417) fix(desktop): drop dead pooled remote backends and tolerate slow remote cold boots
+- [#128419](https://github.com/NousResearch/hermes-agent/pull/128419) fix(desktop): open bare local paths instead of "Invalid external URL"
+- [#128421](https://github.com/NousResearch/hermes-agent/pull/128421) fix(desktop): keep pre-compression transcript reachable after in-place /compress
+- [#128422](https://github.com/NousResearch/hermes-agent/pull/128422) fix(desktop): Escape returns to the preview page when history exists
+- [#128428](https://github.com/NousResearch/hermes-agent/pull/128428) fix(desktop): sessions follow the agent's worktree and record their git branch
+- [#128440](https://github.com/NousResearch/hermes-agent/pull/128440) fix(web): hide untyped scaffold notices and unwrap steer rows in the REST transcript projection
+- [#128441](https://github.com/NousResearch/hermes-agent/pull/128441) fix(desktop): stop logging a handler stack for expected session-probe 404s (#79265)
+- [#128442](https://github.com/NousResearch/hermes-agent/pull/128442) chore(catalog): bump hindsight to eb021da, embedded mode works under PM
+- [#128443](https://github.com/NousResearch/hermes-agent/pull/128443) fix(skills-guard): detect bare-~ destructive rm and inline-shell auto-exec DSL
+- [#128446](https://github.com/NousResearch/hermes-agent/pull/128446) fix(desktop,pm): stop the boot parking on a failed update receipt and bound completion retries (#122206)
+- [#128449](https://github.com/NousResearch/hermes-agent/pull/128449) fix(desktop): hide community catalog rows that only share a name with an installed skill
+- [#128450](https://github.com/NousResearch/hermes-agent/pull/128450) fix(desktop): graft this window's own turn residue instead of refusing the send
+- [#128452](https://github.com/NousResearch/hermes-agent/pull/128452) fix(desktop): scope the remembered local workspace cwd per profile
+- [#128453](https://github.com/NousResearch/hermes-agent/pull/128453) fix(desktop,onboarding): survive the boot secret-hydration race; blame the pin, keep the skip
+- [#128454](https://github.com/NousResearch/hermes-agent/pull/128454) fix(desktop): bound the artifact registry's retained content
+- [#128455](https://github.com/NousResearch/hermes-agent/pull/128455) fix(desktop): keep mid-turn steering working across a stored-session rotation
+- [#128457](https://github.com/NousResearch/hermes-agent/pull/128457) fix(desktop): route a session with no provider to setup, not a dead-end toast
+- [#128462](https://github.com/NousResearch/hermes-agent/pull/128462) fix(desktop): open the rejected provider's key from Update API key
+- [#128463](https://github.com/NousResearch/hermes-agent/pull/128463) fix(desktop): keep both windows' queued prompts and drain each entry exactly once
+- [#128467](https://github.com/NousResearch/hermes-agent/pull/128467) fix(desktop): pipe Windows spawn lock to stdin
+- [#128469](https://github.com/NousResearch/hermes-agent/pull/128469) fix(desktop): bind the Files rail to the focused session's workspace
+- [#128470](https://github.com/NousResearch/hermes-agent/pull/128470) fix(providers): keep built-in routing and validation for settings-only provider blocks
+- [#128476](https://github.com/NousResearch/hermes-agent/pull/128476) fix(desktop): give every new chat its own draft key instead of a shared __new__ bucket
+- [#128499](https://github.com/NousResearch/hermes-agent/pull/128499) fix(desktop): detect attached-backend token drift, not just liveness (#121988)
+- [#128502](https://github.com/NousResearch/hermes-agent/pull/128502) fix(desktop): make the left titlebar toggle positional like the right
+- [#128511](https://github.com/NousResearch/hermes-agent/pull/128511) fix(update): decide ancestry link by link so an unreadable /proc/1 cannot hide the orchestrator
+- [#128520](https://github.com/NousResearch/hermes-agent/pull/128520) fix(desktop): send cleared SSH fields as '' and heal route-identity drift
+- [#128521](https://github.com/NousResearch/hermes-agent/pull/128521) fix(auth): accept provider-verified session tokens in gated WebSocket auth
+- [#128531](https://github.com/NousResearch/hermes-agent/pull/128531) fix(tui_gateway): broadcast approval.cancelled when reap/teardown drop pending prompts
+- [#128539](https://github.com/NousResearch/hermes-agent/pull/128539) fix(desktop,gateway): proxy client-unreachable remote images through the gateway
+- [#128540](https://github.com/NousResearch/hermes-agent/pull/128540) feat(plugin-catalog): add osv-ref
+- [#128546](https://github.com/NousResearch/hermes-agent/pull/128546) fix(desktop): rename a branched-draft session before its first turn
+- [#128547](https://github.com/NousResearch/hermes-agent/pull/128547) fix(desktop,gateway): retry a lost branch create idempotently
+- [#128548](https://github.com/NousResearch/hermes-agent/pull/128548) fix(desktop): route a header-menu rename to the session's own profile
+- [#128549](https://github.com/NousResearch/hermes-agent/pull/128549) fix(desktop): show the branch fork button in session tiles
+- [#128552](https://github.com/NousResearch/hermes-agent/pull/128552) fix(desktop): scope preview tabs to the session that opened them
+- [#128557](https://github.com/NousResearch/hermes-agent/pull/128557) fix(desktop): scope message.reaction events to the active session transcript
+- [#128558](https://github.com/NousResearch/hermes-agent/pull/128558) fix(desktop): re-arm the terminal mount when the xterm host connects late (#118004)
+- [#128563](https://github.com/NousResearch/hermes-agent/pull/128563) fix(update): restore cron agent-job prompts degraded during the update window
+- [#128571](https://github.com/NousResearch/hermes-agent/pull/128571) fix(desktop): ack Quick Entry submits and create the new session atomically
+- [#128578](https://github.com/NousResearch/hermes-agent/pull/128578) perf(desktop): cache and defer mermaid renders so transcripts with diagrams do not stall
+- [#128581](https://github.com/NousResearch/hermes-agent/pull/128581) fix(desktop): file-tree context menu items no longer also open the file
+- [#128590](https://github.com/NousResearch/hermes-agent/pull/128590) fix(desktop): wrap wide markdown and fences instead of scrolling the transcript
+- [#128606](https://github.com/NousResearch/hermes-agent/pull/128606) test(desktop): pin the draft-text swap to the pre-paint layout phase
+- [#128613](https://github.com/NousResearch/hermes-agent/pull/128613) perf(desktop): avoid full transcript geometry sweeps for timeline position
+- [#128615](https://github.com/NousResearch/hermes-agent/pull/128615) feat(plugin-catalog): add gh-ref
+- [#128644](https://github.com/NousResearch/hermes-agent/pull/128644) fix(fast): send service_tier on the openai-api route
+- [#128659](https://github.com/NousResearch/hermes-agent/pull/128659) fix(desktop): STT filter trailing strip + live barge-in disarm (review follow-up to #127275)
+- [#128667](https://github.com/NousResearch/hermes-agent/pull/128667) fix(desktop): send the first prompt of a fresh-draft chat
+- [#128668](https://github.com/NousResearch/hermes-agent/pull/128668) fix(stt): warm-up readiness, idle eviction and lease scope follow-ups to #106002
+- [#128696](https://github.com/NousResearch/hermes-agent/pull/128696) plugin-catalog: bump hermes-subscription-meter to 0.5.0
+- [#128749](https://github.com/NousResearch/hermes-agent/pull/128749) fix(desktop): keep the first send when only the active runtime is retargeted
+- [#128750](https://github.com/NousResearch/hermes-agent/pull/128750) feat(plugin-catalog): add hermes-otel
+- [#128768](https://github.com/NousResearch/hermes-agent/pull/128768) feat(local-models): llama.cpp b11146 with Linux CUDA, bundled libgomp, CLI setup, server lifetime fixes
+- [#128809](https://github.com/NousResearch/hermes-agent/pull/128809) fix(desktop): stop duplicate replies after history refresh
+- [#128863](https://github.com/NousResearch/hermes-agent/pull/128863) fix(desktop): run the Windows update checkers from bundled core code
+- [#128899](https://github.com/NousResearch/hermes-agent/pull/128899) Every desktop chat can install catalog plugins and skills into its own profile
+- [#128908](https://github.com/NousResearch/hermes-agent/pull/128908) Desktop agents can open a new visible chat in an existing profile with start_chat
+- [#128909](https://github.com/NousResearch/hermes-agent/pull/128909) Setup bot asks questions and shows pickers through one setup_choose tool
+- [#128929](https://github.com/NousResearch/hermes-agent/pull/128929) Onboarding state lives in the backend, and the setup profile carries only the guide's tools
+- [#128949](https://github.com/NousResearch/hermes-agent/pull/128949) fix(desktop): release terminal PTY handle on shell exit
+- [#128955](https://github.com/NousResearch/hermes-agent/pull/128955) fix(pm): keep restored runtimes usable after locked displaced cleanup
+- [#128957](https://github.com/NousResearch/hermes-agent/pull/128957) fix(desktop): skip the WSL GPU-blocklist override on Wayland ozone
+- [#128964](https://github.com/NousResearch/hermes-agent/pull/128964) fix(desktop): expand @terminal selections on busy-turn steer and queue
+- [#128975](https://github.com/NousResearch/hermes-agent/pull/128975) feat(desktop): independent chat text size with compact UI defaults
+- [#128984](https://github.com/NousResearch/hermes-agent/pull/128984) Desktop keep-awake gets a 'while working' mode that holds the machine awake only during turns (salvage #102209)
+- [#128992](https://github.com/NousResearch/hermes-agent/pull/128992) fix(bot-mode): make bot-to-bot messaging, Bot Chat opens, and lease handoff actually work
+- [#129010](https://github.com/NousResearch/hermes-agent/pull/129010) fix(desktop): Enter while busy steers again instead of queue → interrupt → lag
+- [#129020](https://github.com/NousResearch/hermes-agent/pull/129020) fix(discord): preserve title retry thread rename (#127667, salvage #127673)
+- [#129028](https://github.com/NousResearch/hermes-agent/pull/129028) initiate-setup skill v0: the setup bot's onboarding guide
+- [#129034](https://github.com/NousResearch/hermes-agent/pull/129034) A handoff from the setup chat into another profile marks onboarding complete
+- [#129039](https://github.com/NousResearch/hermes-agent/pull/129039) Any surface can start first-run setup with /initiate-setup, and the first reply offers it
+- [#129040](https://github.com/NousResearch/hermes-agent/pull/129040) initiate-setup reads a pre-read user scan at skill load
+- [#129041](https://github.com/NousResearch/hermes-agent/pull/129041) initiate-setup: the copied collector names no host
+- [#129048](https://github.com/NousResearch/hermes-agent/pull/129048) ${HERMES_PYTHON} resolves through the package manager
+- [#129055](https://github.com/NousResearch/hermes-agent/pull/129055) onboarding/next: skill docs, metrics schema and a BOM-safe read catch up
+- [#129056](https://github.com/NousResearch/hermes-agent/pull/129056) Codex OAuth: gpt-6.1-sol-900k large-window variant (#128290, salvage #128288)
+- [#129059](https://github.com/NousResearch/hermes-agent/pull/129059) fix(agent): llama.cpp /v1/responses no longer rejects multi-turn history (salvage #91742)
+- [#129066](https://github.com/NousResearch/hermes-agent/pull/129066) feat(plugin-catalog): bump whatsapp-agent-platform to 0.2.0 (media support)
+- [#129072](https://github.com/NousResearch/hermes-agent/pull/129072) Desktop draws setup_choose questions and the start_chat handoff as chat cards
+- [#129082](https://github.com/NousResearch/hermes-agent/pull/129082) /initiate-setup reads SKILL.md BOM-safe
+- [#129092](https://github.com/NousResearch/hermes-agent/pull/129092) fix(skills): ${HERMES_PYTHON} runs a script the way Hermes runs itself
+- [#129093](https://github.com/NousResearch/hermes-agent/pull/129093) catalog(hindsight): pin the released v1.2.1
+- [#129114](https://github.com/NousResearch/hermes-agent/pull/129114) fix(desktop): playable onboarding on onboarding/next (boot + setup cards)
+- [#129137](https://github.com/NousResearch/hermes-agent/pull/129137) One-call built-in tour for the setup chat
+- [#129140](https://github.com/NousResearch/hermes-agent/pull/129140) fix(desktop): offer usage stats only after onboarding, in plain words
+- [#129200](https://github.com/NousResearch/hermes-agent/pull/129200) Setup apps card lists connectors; quick tour covers the model picker
+- [#129202](https://github.com/NousResearch/hermes-agent/pull/129202) P17 (NS-1021): one window sizing call for the setup chat; Elite opens with its panes closed
+- [#129203](https://github.com/NousResearch/hermes-agent/pull/129203) Setup chat can connect an app the user asks for now
+- [#129210](https://github.com/NousResearch/hermes-agent/pull/129210) Setup chat: working row after a card, install step on the catalog card
+- [#129218](https://github.com/NousResearch/hermes-agent/pull/129218) feat(plugin-catalog): add 0bull community plugin
+- [#129240](https://github.com/NousResearch/hermes-agent/pull/129240) Setup: start the user scan when the setup profile is ensured
+- [#129242](https://github.com/NousResearch/hermes-agent/pull/129242) initiate-setup: model starts after the accent answer; no theme/install beat, no intent; ≤25 KB
+- [#129243](https://github.com/NousResearch/hermes-agent/pull/129243) Setup cards: pills only, no key letters, no System tile; handoff card title + Retry
+- [#129245](https://github.com/NousResearch/hermes-agent/pull/129245) Apps and plugins: drop setup_choose intent, manage_catalog out of setup, cards set up later
+- [#129246](https://github.com/NousResearch/hermes-agent/pull/129246) P07: find Blender on Windows, macOS and Linux; offer its task only when present
+- [#129250](https://github.com/NousResearch/hermes-agent/pull/129250) feat(plugin-catalog): bump provider-status to 1.5.11
+- [#129257](https://github.com/NousResearch/hermes-agent/pull/129257) P24 part 1: MEDIA: parsed once in the backend; ::preview deleted
+- [#129287](https://github.com/NousResearch/hermes-agent/pull/129287) feat(plugin-catalog): add Gmail Desktop plugin
+- [#129296](https://github.com/NousResearch/hermes-agent/pull/129296) Catalog: Blender plugin 0.2.0 (declares Blender)
+- [#129318](https://github.com/NousResearch/hermes-agent/pull/129318) P18b: first-run intro — boot into the setup chat, hidden /initiate-setup, leave/Skip, Reset onboarding
+- [#129319](https://github.com/NousResearch/hermes-agent/pull/129319) release.py --branding stable builds a channel commit as the regular Hermes app
+- [#129322](https://github.com/NousResearch/hermes-agent/pull/129322) fix: prevent global-flag regex backtracking in the lifecycle guard and approval rules
+- [#129336](https://github.com/NousResearch/hermes-agent/pull/129336) Typing while a setup or question card waits answers the card; bigger chat text and windows
+- [#129341](https://github.com/NousResearch/hermes-agent/pull/129341) Setup scan stays off backend globals; audit lint and RPC fixes
+- [#129344](https://github.com/NousResearch/hermes-agent/pull/129344) Setup cards: tour and fork always arrive with their rows, apps preselected from the scan, honest skill
+- [#129346](https://github.com/NousResearch/hermes-agent/pull/129346) P18a: the backend plays the desktop setup opening (hello, name, accent) as real setup_choose calls
+- [#129360](https://github.com/NousResearch/hermes-agent/pull/129360) ci: Switch from 96 to 32 core runner for test
+- [#129383](https://github.com/NousResearch/hermes-agent/pull/129383) Setup cards name the pick, skip an empty apps or plugins list, and wait for the intro
+- [#129396](https://github.com/NousResearch/hermes-agent/pull/129396) Free-tier rate limits: renewed token, a prompt card on desktop, streamed status, honest resume model
+- [#129405](https://github.com/NousResearch/hermes-agent/pull/129405) fix(setup): setup chat reasons at low effort on every provider
+- [#129410](https://github.com/NousResearch/hermes-agent/pull/129410) Desktop and TUI wait out a paid provider's Retry-After again; only the free tier ends the turn on a long cooldown
+- [#129415](https://github.com/NousResearch/hermes-agent/pull/129415) ci: run the slow lanes on a PR only when it touches their paths
+- [#129419](https://github.com/NousResearch/hermes-agent/pull/129419) Setup handoff: the task chat gets what setup learned and talks before it builds
+- [#129425](https://github.com/NousResearch/hermes-agent/pull/129425) fix(desktop): unbreak main's JS lane (relay sole-clear test, stale i18n keys)
+- [#129441](https://github.com/NousResearch/hermes-agent/pull/129441) Portable plugins can require an NVIDIA GPU (requires.gpu)
+- [#129461](https://github.com/NousResearch/hermes-agent/pull/129461) Ci improvements part1
+- [#129471](https://github.com/NousResearch/hermes-agent/pull/129471) fmt(js): `npm run fix` auto-fix
+- [#129488](https://github.com/NousResearch/hermes-agent/pull/129488) fmt(js): `npm run fix` auto-fix
+- [#129499](https://github.com/NousResearch/hermes-agent/pull/129499) test(desktop): wait for <html lang> in the pack-only locale test
+- [#129500](https://github.com/NousResearch/hermes-agent/pull/129500) plugin-catalog: add dashboard-button (community, desktop)
+- [#129506](https://github.com/NousResearch/hermes-agent/pull/129506) The local-setup offer works in the new onboarding: tour step, post-task card, model-menu row
+- [#129516](https://github.com/NousResearch/hermes-agent/pull/129516) Krea and managed image fixes: portal partner names the real gateway, local Krea style refs, Krea 2 sliders (salvage #114418, #118444, #119267)
+- [#129540](https://github.com/NousResearch/hermes-agent/pull/129540) Flavored desktop builds no longer stamp themselves dirty
+- [#129541](https://github.com/NousResearch/hermes-agent/pull/129541) --branding stable works before stable has a channel record
+- [#129573](https://github.com/NousResearch/hermes-agent/pull/129573) Desktop session creation no longer fails against older backends that reject cwd_explicit (#128971, salvage #128972)
+- [#129575](https://github.com/NousResearch/hermes-agent/pull/129575) Relayed DMs into a default profile spawn on multi-profile backends (salvage #120945)
+- [#129578](https://github.com/NousResearch/hermes-agent/pull/129578) fmt(js): `npm run fix` auto-fix
+- [#129588](https://github.com/NousResearch/hermes-agent/pull/129588) fix(cron): ignore measured durations in the incident error signature
+- [#129594](https://github.com/NousResearch/hermes-agent/pull/129594) catalog: add hermes-turn-usage (per-reply usage/cost footer)
+- [#129595](https://github.com/NousResearch/hermes-agent/pull/129595) no-console-git test no longer flakes on a torn pids.json read
+- [#129600](https://github.com/NousResearch/hermes-agent/pull/129600) feat(plugin-catalog): add t3-code-theme
+- [#129616](https://github.com/NousResearch/hermes-agent/pull/129616) feat(catalog): add vidIQ creator workflows
+- [#129617](https://github.com/NousResearch/hermes-agent/pull/129617) fmt(js): `npm run fix` auto-fix
+- [#129636](https://github.com/NousResearch/hermes-agent/pull/129636) First-run intro no longer plays hearts; usage-stats bar waits out the tour
+- [#129638](https://github.com/NousResearch/hermes-agent/pull/129638) Desktop stops polling local-models status every 2 seconds when idle
+- [#129643](https://github.com/NousResearch/hermes-agent/pull/129643) Desktop bundle: the agent's terminal runs a working hermes CLI
+- [#129646](https://github.com/NousResearch/hermes-agent/pull/129646) The first task after setup connects the picks and finishes something small within minutes
+- [#129650](https://github.com/NousResearch/hermes-agent/pull/129650) Desktop install card: parallel installs succeed, Try again enables a plugin on disk, a failed row stops blocking the turn
+- [#129675](https://github.com/NousResearch/hermes-agent/pull/129675) feat(plugin-catalog): add pep-ref
+- [#129676](https://github.com/NousResearch/hermes-agent/pull/129676) feat(plugin-catalog): add rfc-ref
+- [#129692](https://github.com/NousResearch/hermes-agent/pull/129692) feat(plugin-catalog): add privacy-gateway
+- [#129727](https://github.com/NousResearch/hermes-agent/pull/129727) fmt(js): `npm run fix` auto-fix
+- [#129736](https://github.com/NousResearch/hermes-agent/pull/129736) fix(desktop): nudge an explicitly addressed group member that (pass)ed
+- [#129747](https://github.com/NousResearch/hermes-agent/pull/129747) fix(gateway): authored platforms.<plat>.extra wins over the top-level platform block (salvage #118598)
+- [#129748](https://github.com/NousResearch/hermes-agent/pull/129748) fix(cron): surface acknowledged worker failures and release stale claims
+- [#129811](https://github.com/NousResearch/hermes-agent/pull/129811) Catalog: bunny_space-platform v1.0.5 (pin + version)
+- [#129823](https://github.com/NousResearch/hermes-agent/pull/129823) chore(plugin-catalog): bump tool-slimmer to 0.8.0
+- [#129840](https://github.com/NousResearch/hermes-agent/pull/129840) catalog: add hermes-beads v0.1.2 (native Beads work-graph plugin)
+- [#129853](https://github.com/NousResearch/hermes-agent/pull/129853) plugin-catalog: add cloudflare-sandbox
+- [#129857](https://github.com/NousResearch/hermes-agent/pull/129857) Add hermes-telemetry-dashboard to the plugin catalog
+- [#129904](https://github.com/NousResearch/hermes-agent/pull/129904) fix(desktop): discard file tree reads from obsolete roots
+- [#129943](https://github.com/NousResearch/hermes-agent/pull/129943) refactor(desktop): move link-title resolution out of main.ts into link-metadata.ts
+- [#129946](https://github.com/NousResearch/hermes-agent/pull/129946) test(desktop): shard the uploadComposerAttachment tests out of use-prompt-actions (Part of #79915)
+- [#129953](https://github.com/NousResearch/hermes-agent/pull/129953) refactor(desktop/i18n): split zh-hant.ts into zh-hant_<topic> siblings
+- [#129961](https://github.com/NousResearch/hermes-agent/pull/129961) fmt(js): `npm run fix` auto-fix
+- [#129964](https://github.com/NousResearch/hermes-agent/pull/129964) feat(plugin-catalog): add git-hook plugin
+- [#129965](https://github.com/NousResearch/hermes-agent/pull/129965) feat(plugin-catalog): add secret-handoff plugin
+- [#129966](https://github.com/NousResearch/hermes-agent/pull/129966) fix(desktop): restore the native macOS Window menu
+- [#129967](https://github.com/NousResearch/hermes-agent/pull/129967) feat(plugin-catalog): add gbrain-retrieval-reflex plugin
+- [#130001](https://github.com/NousResearch/hermes-agent/pull/130001) feat(catalog): list Monitoring Dashboard
+- [#130004](https://github.com/NousResearch/hermes-agent/pull/130004) refactor(desktop/i18n): split ar.ts into ar_<topic> siblings
+- [#130015](https://github.com/NousResearch/hermes-agent/pull/130015) fix(desktop): register the classic default skin palette in Appearance
+- [#130020](https://github.com/NousResearch/hermes-agent/pull/130020) fix(desktop): preview-file markdown links with spaces in the path
+- [#130021](https://github.com/NousResearch/hermes-agent/pull/130021) fix(desktop): fit zoomable overlay content on open
+- [#130028](https://github.com/NousResearch/hermes-agent/pull/130028) fix(desktop): make LogsPane text selectable and add stick-to-bottom autoscroll
+- [#130038](https://github.com/NousResearch/hermes-agent/pull/130038) fix(agent,gateway): map a resumed truncation target onto its repaired live carrier
+- [#130041](https://github.com/NousResearch/hermes-agent/pull/130041) fix(a11y): grow shared icon buttons to 24px hit targets
+- [#130047](https://github.com/NousResearch/hermes-agent/pull/130047) Packaged installs show how to uninstall instead of an empty page
+- [#130048](https://github.com/NousResearch/hermes-agent/pull/130048) fix(desktop): only the active terminal tab owns Cmd/Ctrl+L add-selection
+- [#130049](https://github.com/NousResearch/hermes-agent/pull/130049) fix(desktop): keep delegate children out of sessions
+- [#130056](https://github.com/NousResearch/hermes-agent/pull/130056) Focusing the desktop window no longer throws, so deep links and notification clicks arrive
+- [#130057](https://github.com/NousResearch/hermes-agent/pull/130057) Welcome chat opens on a slow cold first boot instead of timing out
+- [#130058](https://github.com/NousResearch/hermes-agent/pull/130058) fix(desktop): decode reasoning-details envelopes and hide opaque replay carriers in Thought
+- [#130062](https://github.com/NousResearch/hermes-agent/pull/130062) One skipped setup card no longer breaks the cards after it
+- [#130080](https://github.com/NousResearch/hermes-agent/pull/130080) fix(desktop): un-nest the session row's drag handle from its primary button
+- [#130084](https://github.com/NousResearch/hermes-agent/pull/130084) fix(credential-pool): keep the quota probe's rotated Codex tokens when clearing the cooldown
+- [#130087](https://github.com/NousResearch/hermes-agent/pull/130087) fmt(js): `npm run fix` auto-fix
+- [#130090](https://github.com/NousResearch/hermes-agent/pull/130090) fix(search): resume deep compression lineages from the matched id, not the capped root walk
+- [#130092](https://github.com/NousResearch/hermes-agent/pull/130092) fix(desktop): order Review request ownership
+- [#130093](https://github.com/NousResearch/hermes-agent/pull/130093) Add hicortex to plugin catalog (memory, community)
+- [#130106](https://github.com/NousResearch/hermes-agent/pull/130106) test(desktop): pass routedSessionId to the warm-switch session-actions harness
+- [#130107](https://github.com/NousResearch/hermes-agent/pull/130107) feat(plugin-catalog): add hermes-cloud-file-manager plugin
+- [#130130](https://github.com/NousResearch/hermes-agent/pull/130130) feat(plugin-catalog): add openai-compatible image provider
+- [#130152](https://github.com/NousResearch/hermes-agent/pull/130152) The first task runs each step once and stops re-asking about apps the user moved past
+- [#130155](https://github.com/NousResearch/hermes-agent/pull/130155) feat(plugin-catalog): add hermes-council plugin
+- [#130165](https://github.com/NousResearch/hermes-agent/pull/130165) fix(desktop): render code blocks plain when the highlighter chunk fails to load
+- [#130167](https://github.com/NousResearch/hermes-agent/pull/130167) feat: approval and clarify prompts wait until answered in the CLI, TUI and Desktop
+- [#130183](https://github.com/NousResearch/hermes-agent/pull/130183) fix(tools): preserve agent-browser session for CDP commands to resolve snapshot refs
+- [#130200](https://github.com/NousResearch/hermes-agent/pull/130200) catalog(optmem-hermes): add v0.3.2
+- [#130247](https://github.com/NousResearch/hermes-agent/pull/130247) first-task skill reaches a first result in every scenario (mean 5.80 to 7.40)
+- [#130285](https://github.com/NousResearch/hermes-agent/pull/130285) fix(gateway): release gateway-held log and MCP handles when unserving a profile
+- [#130291](https://github.com/NousResearch/hermes-agent/pull/130291) feat(plugin-catalog): add drag-to-pin-session card image
+- [#130293](https://github.com/NousResearch/hermes-agent/pull/130293) feat(plugin-catalog): add screenshots to four entries
+- [#130298](https://github.com/NousResearch/hermes-agent/pull/130298) Discord title-retry rename recovery stops reading the session DB every thread turn (follow-up #129020)
+- [#130300](https://github.com/NousResearch/hermes-agent/pull/130300) fix(desktop): refuse a steer into a session with no live turn
+- [#130322](https://github.com/NousResearch/hermes-agent/pull/130322) fmt(js): `npm run fix` auto-fix
+- [#130329](https://github.com/NousResearch/hermes-agent/pull/130329) feat(plugin-catalog): add rtk-rewrite-docker
+- [#130342](https://github.com/NousResearch/hermes-agent/pull/130342) feat(plugin-catalog): bump better-session-appearance to 1.2.2
+- [#130343](https://github.com/NousResearch/hermes-agent/pull/130343) feat(plugin-catalog): bump sidebar-manager to 1.0.1
+- [#130348](https://github.com/NousResearch/hermes-agent/pull/130348) feat(catalog): add Hermes Agent Builder
+- [#130351](https://github.com/NousResearch/hermes-agent/pull/130351) plugin-catalog: add hermes-worker-monitor 0.2.0 (worker-only fork of hermes-monitor)
+- [#130369](https://github.com/NousResearch/hermes-agent/pull/130369) fix(dashboard): learning-node and skill editor writes honour ?profile=
+- [#130375](https://github.com/NousResearch/hermes-agent/pull/130375) Codex quota-probe rotation regression test now lives in the probe suite (follow-up to #130084)
+- [#130393](https://github.com/NousResearch/hermes-agent/pull/130393) fix(desktop): open public http(s) pages in the preview pane
+- [#130420](https://github.com/NousResearch/hermes-agent/pull/130420) install.ps1 failure-frame test stops timing out on windows-arm64
+- [#130434](https://github.com/NousResearch/hermes-agent/pull/130434) fix(catalog): update Resetwatch to 0.2.20
+- [#130435](https://github.com/NousResearch/hermes-agent/pull/130435) fix(catalog): update RSS to 0.0.3
+- [#130436](https://github.com/NousResearch/hermes-agent/pull/130436) fix(catalog): update Nous Prices to 0.1.2
+- [#130437](https://github.com/NousResearch/hermes-agent/pull/130437) fix(catalog): update Ledgerline to 0.1.8
+- [#130438](https://github.com/NousResearch/hermes-agent/pull/130438) fix(catalog): update Toolsmith to 1.0.1
+- [#130439](https://github.com/NousResearch/hermes-agent/pull/130439) fix(catalog): update ClinePass to 1.2.3 using provider profiles
+- [#130455](https://github.com/NousResearch/hermes-agent/pull/130455) feat(kanban): add in-process kanban_schedule tool for workers
+- [#130486](https://github.com/NousResearch/hermes-agent/pull/130486) fix(catalog): update Tailscale to 0.0.6
+- [#130487](https://github.com/NousResearch/hermes-agent/pull/130487) fix(catalog): update Terminal to 0.0.4
+- [#130501](https://github.com/NousResearch/hermes-agent/pull/130501) fmt(js): `npm run fix` auto-fix
+- [#130505](https://github.com/NousResearch/hermes-agent/pull/130505) fix(desktop): Quick Entry sends to a stored session after this window's own unsynced turn (#130031, salvage #130035)
+- [#130506](https://github.com/NousResearch/hermes-agent/pull/130506) Compaction can split an oversized in-progress turn that starts with a reply to a long message (salvage #129081)
+- [#130508](https://github.com/NousResearch/hermes-agent/pull/130508) Auxiliary clients and the OpenRouter mirror send the main or OPENAI_BASE_URL-bound API key only to its exact origin (#126104, #126218, salvage #126108, #126222)
+- [#130513](https://github.com/NousResearch/hermes-agent/pull/130513) fix(proxy): web pages in your browser can no longer spend the subscription proxy's credential (#126118, salvage #126121)
+- [#130515](https://github.com/NousResearch/hermes-agent/pull/130515) fix(sessions): a chat pinned before compression keeps its newest part through prune, auto-archive and the orphan sweep (#126432, salvage #126434)
+- [#130516](https://github.com/NousResearch/hermes-agent/pull/130516) fix(a2a): refuse peers on a network-exposed A2A bind with no trusted-peer allow-list (#126756, salvage #130310)
+- [#130518](https://github.com/NousResearch/hermes-agent/pull/130518) fix(gateway): stop the cgroup cleanup reaper from killing a live gateway (#126845, salvage #126846)
+- [#130521](https://github.com/NousResearch/hermes-agent/pull/130521) hermes gateway restart no longer takes over a gateway run by a legacy or custom-named systemd unit (#126474, salvage #126578)
+- [#130522](https://github.com/NousResearch/hermes-agent/pull/130522) fix(gateway): two gateway.standalone profiles can run side by side again, including after a WSL clock resync (#128600, salvage #128602 #129035)
+- [#130523](https://github.com/NousResearch/hermes-agent/pull/130523) Rotation compaction after a durable-snapshot adoption no longer writes the current prompt into the child twice (#125888, salvage #125908)
+- [#130525](https://github.com/NousResearch/hermes-agent/pull/130525) Profile export and distribution install no longer ship or overwrite credential stores (#126114, salvage #126116)
+- [#130526](https://github.com/NousResearch/hermes-agent/pull/130526) fix(cron): recurring jobs resume after a transient croniter import failure (#127182, salvage #127195)
+- [#130527](https://github.com/NousResearch/hermes-agent/pull/130527) fix(desktop): preview saves and new-project IDEA.md stay on the connection they started on (#127659, #127676, salvage #127662 #127677)
+- [#130528](https://github.com/NousResearch/hermes-agent/pull/130528) Effectful tool calls refuse cut-short compression markers, and mid-turn corrections no longer end long turns (#128000, salvage #127613, #128682)
+- [#130536](https://github.com/NousResearch/hermes-agent/pull/130536) fix(kanban): gc, archive and completion keep a workspace another live task still uses (#126508, salvage #126513)
+- [#130537](https://github.com/NousResearch/hermes-agent/pull/130537) fix(backup): /snapshot restore keeps live OAuth logins and reports a refused auth.json (#127010, salvage #127063 #128351)
+- [#130538](https://github.com/NousResearch/hermes-agent/pull/130538) fix(cli): chat -q approvals keep the approvals.timeout deadline
+- [#130544](https://github.com/NousResearch/hermes-agent/pull/130544) Codex auxiliary timeouts no longer release the attempt stream's TLS socket from the watchdog thread (#130115, salvage #130176)
+- [#130548](https://github.com/NousResearch/hermes-agent/pull/130548) Dump, debug share and other strict-redaction egress no longer leak credentials kept in the URL username (#129983, salvage #129985)
+- [#130549](https://github.com/NousResearch/hermes-agent/pull/130549) fix(agent): image turns restored from history are no longer sent to the model as raw base64 text (#125299, salvage #125331)
+- [#130551](https://github.com/NousResearch/hermes-agent/pull/130551) fix(agent): a model stuck in a repetition loop no longer streams forever on an uncapped endpoint (#127234, salvage #127242)
+- [#130553](https://github.com/NousResearch/hermes-agent/pull/130553) Desktop shows a reply once when it was already sealed as an interim or loaded with older history (#123801, salvage #126023 #124472)
+- [#130555](https://github.com/NousResearch/hermes-agent/pull/130555) Codex Responses: a slow post-reply stream drain no longer risks corrupting other open files (#127390, salvage #127615)
+- [#130595](https://github.com/NousResearch/hermes-agent/pull/130595) fix(cli): exiting a `--worktree` session keeps the worktree when it has uncommitted changes (#129482, salvage #129489)
+- [#130599](https://github.com/NousResearch/hermes-agent/pull/130599) fix(cron): context_from injects the full previous answer when it contains a "## Response" heading (#128543, salvage #128685)
+- [#130600](https://github.com/NousResearch/hermes-agent/pull/130600) Disk cleanup no longer deletes existing test_/tmp_ files the agent only edited or listed (salvage #128090)
+- [#130601](https://github.com/NousResearch/hermes-agent/pull/130601) Heartbeats stay quiet during `hermes pause` instead of resending the paused notice every poll, and /loop wakeups wait for resume (salvage #126905)
+- [#130611](https://github.com/NousResearch/hermes-agent/pull/130611) Cron jobs send a stored provider key only to that provider's configured origin, not over HTTP, another port or a subdomain (#126300, salvage #126306)
+- [#130612](https://github.com/NousResearch/hermes-agent/pull/130612) Session prune and empty-session cleanup no longer delete a session mid-turn (salvage #125603)
+- [#130613](https://github.com/NousResearch/hermes-agent/pull/130613) Gateway flags an enabled platform whose plugin failed to load and brings it back once the plugin registers (#126356, salvage #126367 #126749)
+- [#130614](https://github.com/NousResearch/hermes-agent/pull/130614) fix(cron): automatic re-runs after an unreachable model no longer use up a job's repeat count (salvage #127411)
+- [#130618](https://github.com/NousResearch/hermes-agent/pull/130618) fix: symlinked jobs.json, .env and config files survive a crash mid-save when the link points to another filesystem (salvage #126237)
+- [#130619](https://github.com/NousResearch/hermes-agent/pull/130619) Negative backup retention, JSON NaN/Infinity writes, and replace_all Unicode flattening fixed in backup and file tools (salvage #128886, #128888, #128894)
+- [#130623](https://github.com/NousResearch/hermes-agent/pull/130623) fix(sessions): `hermes sessions export` JSON/JSONL backups keep compaction-archived turns (salvage #128057)
+- [#130626](https://github.com/NousResearch/hermes-agent/pull/130626) catalog: add Markdown.new public web research plugin
+- [#130630](https://github.com/NousResearch/hermes-agent/pull/130630) plugin-catalog: add dashboard-auth-ldap
+- [#130632](https://github.com/NousResearch/hermes-agent/pull/130632) fix(state): a re-flushed restored history block no longer duplicates in state.db (#129065, salvage #129133)
+- [#130645](https://github.com/NousResearch/hermes-agent/pull/130645) fix: preserved Anthropic thinking survives rejection and resume (salvage #129620)
+- [#130660](https://github.com/NousResearch/hermes-agent/pull/130660) fix(web): free managed fast search reaches registered Nous accounts (guests keep the keyless ring)
+- [#130661](https://github.com/NousResearch/hermes-agent/pull/130661) fix(git): automatic git runs in kanban, worktree cleanup, subagents and hermes -w no longer execute a cloned repo's filters or hooks (#126017, salvage #126019)
+- [#130672](https://github.com/NousResearch/hermes-agent/pull/130672) In-place compaction no longer re-sends old prompts or re-orders a killed turn's tool call after a reload (#125564, #129123, salvage #129749, #125567)
+- [#130682](https://github.com/NousResearch/hermes-agent/pull/130682) feat(plugin-catalog): add hermes-cron — operating skill for cron jobs
+- [#130683](https://github.com/NousResearch/hermes-agent/pull/130683) fix(matrix): long non-English replies, streamed edits and cron deliveries no longer get rejected as too large (salvage #128034)
+- [#130685](https://github.com/NousResearch/hermes-agent/pull/130685) Dashboard native sign-in only sends login codes back to a real loopback callback (salvage #129621)
+- [#130686](https://github.com/NousResearch/hermes-agent/pull/130686) Codex -900k aliases keep a known catalog cap across failed or racing refreshes (#128288 review)
+- [#130692](https://github.com/NousResearch/hermes-agent/pull/130692) fix(gateway): webhook deliveries on different routes or profiles no longer drop each other as duplicates (#7448, salvage #129626)
+- [#130704](https://github.com/NousResearch/hermes-agent/pull/130704) fix(responses): assistant phase survives role-message replay and preflight (salvage #122175)
+- [#130707](https://github.com/NousResearch/hermes-agent/pull/130707) feat(plugin-catalog): add woof — WOOF weather simulations on your own GPU
+- [#130711](https://github.com/NousResearch/hermes-agent/pull/130711) A routed profile's cron delivery no longer rewrites the launch profile's media policy
+- [#130712](https://github.com/NousResearch/hermes-agent/pull/130712) Plugin catalog CI can no longer be bypassed by renames, subdir traversal or tag pins (salvage #125842)
+- [#130716](https://github.com/NousResearch/hermes-agent/pull/130716) Fallback-pinned sessions return to a Codex primary whose quota reopened early, without flip-flopping (salvage #130578)
+- [#130727](https://github.com/NousResearch/hermes-agent/pull/130727) fix(relay): chunk long cron output through the relay connector instead of truncating it
+- [#130729](https://github.com/NousResearch/hermes-agent/pull/130729) Desktop update no longer spends minutes syntax-checking renderer chunks one Node process at a time (salvage #127400, #125201)
+- [#130735](https://github.com/NousResearch/hermes-agent/pull/130735) codex_app_server runs the Hermes-selected model, including after /model (salvage #83269)
+- [#130736](https://github.com/NousResearch/hermes-agent/pull/130736) feat(plugin-catalog): add memanto
+- [#130740](https://github.com/NousResearch/hermes-agent/pull/130740) Custom codex_responses routes cap -900k at their own catalog max; empty Codex catalog probes are not repeated (#128288 review)
+- [#130743](https://github.com/NousResearch/hermes-agent/pull/130743) GPT sessions without terminal/execute_code are no longer told to use them (#106506, salvage #106548)
+- [#130787](https://github.com/NousResearch/hermes-agent/pull/130787) One rejected encrypted-reasoning blob no longer ends replay for the session, and the verdict no longer follows /model or fallback (Responses/Codex, salvage #61552)
+- [#130795](https://github.com/NousResearch/hermes-agent/pull/130795) Plugin catalog refuses plugins that override Hermes core or Desktop at runtime
+- [#130807](https://github.com/NousResearch/hermes-agent/pull/130807) feat(plugin-catalog): add hermes-dreaming — nightly deterministic memory consolidation
+- [#130826](https://github.com/NousResearch/hermes-agent/pull/130826) revert: approval and clarify prompts time out again in the CLI, TUI and Desktop (reverts #130167)
+- [#130843](https://github.com/NousResearch/hermes-agent/pull/130843) plugin-catalog: add agent_memory_es memory provider
+- [#130852](https://github.com/NousResearch/hermes-agent/pull/130852) revert: Desktop connects to remote backends and keeps its settings again (reverts #127201, #130015, #128552)
+- [#130860](https://github.com/NousResearch/hermes-agent/pull/130860) Plugin catalog: delist 11 plugins that override Hermes core or Desktop
+- [#130866](https://github.com/NousResearch/hermes-agent/pull/130866) fix(gateway): SMS, email and WeCom deliver long replies and cron output in full instead of failing or truncating
+- [#130886](https://github.com/NousResearch/hermes-agent/pull/130886) feat(plugin-catalog): add linkup plugin
+- [#130894](https://github.com/NousResearch/hermes-agent/pull/130894) fix(git): hermes -w and automatic worktrees work again in repos with an includeIf (follow-up to #130661)
+- [#130900](https://github.com/NousResearch/hermes-agent/pull/130900) feat(plugin-catalog): bump prompt-enhance to 1.1.1
+- [#130917](https://github.com/NousResearch/hermes-agent/pull/130917) fix(whatsapp): WhatsApp Cloud only accepts inbound messages addressed to its own phone number and business account (salvage #129851)
+- [#130918](https://github.com/NousResearch/hermes-agent/pull/130918) fix(webhook): a stale subscription update no longer brings back a deleted or disabled route, and moving a route to another profile rotates its secret (salvage #129804)
+- [#130920](https://github.com/NousResearch/hermes-agent/pull/130920) Matrix invites and approval reactions stop accepting revoked pairing users without a restart (salvage #129773)
+- [#130921](https://github.com/NousResearch/hermes-agent/pull/130921) Desktop keeps remote gateway credentials off redirect hops that leave the gateway (salvage #129625)
+- [#130922](https://github.com/NousResearch/hermes-agent/pull/130922) Add turn-bell to the plugin catalog
+- [#130924](https://github.com/NousResearch/hermes-agent/pull/130924) fix(codex): reasoning effort and /fast reach the app-server runtime (salvage #65599)
+- [#130939](https://github.com/NousResearch/hermes-agent/pull/130939) fix(desktop): X and Instagram embeds no longer run vendor scripts in the app window (salvage #129637)
+- [#130940](https://github.com/NousResearch/hermes-agent/pull/130940) catalog: add Hermes Quiet 2.0.0 with supported Desktop SDK surfaces
+- [#130953](https://github.com/NousResearch/hermes-agent/pull/130953) fmt(js): `npm run fix` auto-fix
+- [#130975](https://github.com/NousResearch/hermes-agent/pull/130975) fix(desktop): play YouTube embeds through a loopback player host
+- [#130983](https://github.com/NousResearch/hermes-agent/pull/130983) Desktop: pick Classic Hermes gold/navy in Appearance without repainting stock installs (#76579)
+- [#130996](https://github.com/NousResearch/hermes-agent/pull/130996) fix(desktop): scope preview tabs to the session that opened them (re-land #128552)
+- [#131001](https://github.com/NousResearch/hermes-agent/pull/131001) Finished updates stay finished: no same-commit re-run on launch, Windows exit 124 after completion is success (salvage #123863, #127198)
+- [#131015](https://github.com/NousResearch/hermes-agent/pull/131015) fix(desktop): YouTube embed host answers malformed paths with 404 instead of crashing
+- [#131029](https://github.com/NousResearch/hermes-agent/pull/131029) fix(gateway): render early Unix timestamps safely on Windows
+- [#131034](https://github.com/NousResearch/hermes-agent/pull/131034) hermes status shows a one-screen summary by default, --full for every section (salvage #130857)
+- [#131048](https://github.com/NousResearch/hermes-agent/pull/131048) Plugin catalog submission guide: one complete page, synced with the README rules
+- [#131063](https://github.com/NousResearch/hermes-agent/pull/131063) fix(agent): normalize provider-minted parallel tool-call ids at mint time
+- [#131066](https://github.com/NousResearch/hermes-agent/pull/131066) feat(catalog): add Ando platform beta plugin
+- [#131071](https://github.com/NousResearch/hermes-agent/pull/131071) fix(gateway): skip restart-safe scoped cron runs in the restart wait, keyed per profile
+- [#131076](https://github.com/NousResearch/hermes-agent/pull/131076) plugin-catalog: bump web-search-plus to 4.3.3 (rebase of #130204)
+- [#131113](https://github.com/NousResearch/hermes-agent/pull/131113) plugin-catalog: add aichipmunk
+- [#131127](https://github.com/NousResearch/hermes-agent/pull/131127) fix(plugins): a forced reinstall of the same source keeps the user's files
+- [#131194](https://github.com/NousResearch/hermes-agent/pull/131194) chore(plugin-catalog): bump Nerve to v0.3.1
+- [#131215](https://github.com/NousResearch/hermes-agent/pull/131215) fix(desktop): right-click in a pane opens the menu for what you clicked (#127313, #127997, salvage #129402)
+- [#131217](https://github.com/NousResearch/hermes-agent/pull/131217) hermes status --full lists each messaging platform once, with the summary's verdict (#96190)
+- [#131221](https://github.com/NousResearch/hermes-agent/pull/131221) fix(gateway): /fast and /fast ultrafast follow the session's /model route (#118761, salvage #65028)
+- [#131228](https://github.com/NousResearch/hermes-agent/pull/131228) feat(plugin-catalog): add sidebar-cycle plugin
+- [#131229](https://github.com/NousResearch/hermes-agent/pull/131229) Desktop SDK: plugins decorate model menu rows; themes style chat switches via data-session-switching
+- [#131236](https://github.com/NousResearch/hermes-agent/pull/131236) ci: run the Python suite and the macOS lane as two slices each
+- [#131246](https://github.com/NousResearch/hermes-agent/pull/131246) test: seed the version cache per test process instead of running git 7 times
+- [#131249](https://github.com/NousResearch/hermes-agent/pull/131249) Local MCP/plugin tool batches in one tool_call now run instead of being rejected (#119891, #121616, salvage #131006)
+- [#131251](https://github.com/NousResearch/hermes-agent/pull/131251) fmt(js): `npm run fix` auto-fix
+- [#131252](https://github.com/NousResearch/hermes-agent/pull/131252) Skills and Plugins are back to the list tabs; card catalog browser removed again (reverts #119381)
+- [#131253](https://github.com/NousResearch/hermes-agent/pull/131253) ci(label-rerun): never rerun a CI run whose PR head has moved
+- [#131256](https://github.com/NousResearch/hermes-agent/pull/131256) Cloned profiles keep their catalog-installed plugins and memory provider
+- [#131265](https://github.com/NousResearch/hermes-agent/pull/131265) retaindb, byterover and holographic memory providers join the plugin catalog (Nous-maintained)
+- [#131266](https://github.com/NousResearch/hermes-agent/pull/131266) Memory providers migrate on Desktop, the gateway and scripted updates — no terminal needed for their Python deps
+- [#131268](https://github.com/NousResearch/hermes-agent/pull/131268) Desktop app is no longer rebuilt on updates that don't move HEAD
+- [#131269](https://github.com/NousResearch/hermes-agent/pull/131269) fix(memory): never lose memory silently when a provider moves out of core
+- [#131272](https://github.com/NousResearch/hermes-agent/pull/131272) Supermemory installs from the plugin catalog — existing setups migrate automatically
+- [#131286](https://github.com/NousResearch/hermes-agent/pull/131286) fix(clarify): drop maxLength from the choices schema so llama.cpp can parse the grammar
+- [#131290](https://github.com/NousResearch/hermes-agent/pull/131290) chore(catalog): skill-retrieval 0.4.0 — migrated to public surfaces (drops itself from #130860)
+- [#131301](https://github.com/NousResearch/hermes-agent/pull/131301) Honcho memory installs from Plastic Labs' catalog plugin; core no longer bundles it
+- [#131306](https://github.com/NousResearch/hermes-agent/pull/131306) fix(dashboard): free PTY sessions whose process died, and end their helpers
+- [#131309](https://github.com/NousResearch/hermes-agent/pull/131309) fix(models): a failed Codex/Anthropic catalog fetch no longer hides Astra for an hour (salvage #130957, #121248)
+- [#131310](https://github.com/NousResearch/hermes-agent/pull/131310) fix(desktop): the reasoning pill no longer shows a stale clamp after a model switch (#128871, salvage #128883, #130963)
+- [#131327](https://github.com/NousResearch/hermes-agent/pull/131327) fix(tui): keep event replay detached from the caller's live params
+- [#131328](https://github.com/NousResearch/hermes-agent/pull/131328) fix(tui): close agents that finish building after their session closed
+- [#131334](https://github.com/NousResearch/hermes-agent/pull/131334) Add vet402 to the plugin catalog
+- [#131346](https://github.com/NousResearch/hermes-agent/pull/131346) fix(tests): kanban wake drain helpers no longer busy-spin forever on Python 3.12+
+- [#131349](https://github.com/NousResearch/hermes-agent/pull/131349) fix(desktop): clear a deleted session's subagents, todos, goal and background status
+- [#131350](https://github.com/NousResearch/hermes-agent/pull/131350) fix(tui): arm the slash-worker parent watchdog before the cli import
+- [#131351](https://github.com/NousResearch/hermes-agent/pull/131351) fix(logging): stop writing into a profile deleted while serve runs
+- [#131383](https://github.com/NousResearch/hermes-agent/pull/131383) Onboarding on a Spark no longer offers a local model that a task chat installs by hand
+- [#131393](https://github.com/NousResearch/hermes-agent/pull/131393) retaindb, byterover and holographic are no longer listed as Nous-maintained catalog plugins
+- [#131398](https://github.com/NousResearch/hermes-agent/pull/131398) plugin-catalog: bump hermes-workflows to v1.1.4
+- [#131430](https://github.com/NousResearch/hermes-agent/pull/131430) fix(tests): failure-writer ownership probe stops flaking at 19/20 (no real tirith download mid-probe)
+- [#131454](https://github.com/NousResearch/hermes-agent/pull/131454) plugin-catalog: update provider-usage to v0.2.0
+- [#131464](https://github.com/NousResearch/hermes-agent/pull/131464) chore(plugin-catalog): bump hermes-zh pin to 4ab9167 (v0.1.6 compliance refactor)
+- [#131508](https://github.com/NousResearch/hermes-agent/pull/131508) feat(plugin-catalog): add jp-corporate
+- [#131533](https://github.com/NousResearch/hermes-agent/pull/131533) feat(plugin-catalog): add jp-estat
+- [#131534](https://github.com/NousResearch/hermes-agent/pull/131534) feat(plugin-catalog): add memtomem (community, memory) @ v0.6.6
+- [#131545](https://github.com/NousResearch/hermes-agent/pull/131545) docs: route agents and contributors to SECURITY.md for security reports
+- [#131570](https://github.com/NousResearch/hermes-agent/pull/131570) feat(plugin-catalog): add jp-charts
+- [#131584](https://github.com/NousResearch/hermes-agent/pull/131584) feat(plugin-catalog): add jp-egov-law
+- [#131586](https://github.com/NousResearch/hermes-agent/pull/131586) feat(plugins): catalog birkin-mnemosyne memory provider
+- [#131603](https://github.com/NousResearch/hermes-agent/pull/131603) fmt(js): `npm run fix` auto-fix
+- [#131619](https://github.com/NousResearch/hermes-agent/pull/131619) feat(catalog): add the pinned Pushary approval plugin
+- [#131623](https://github.com/NousResearch/hermes-agent/pull/131623) fix(browser): /browser connect and disconnect retarget browser_exec
+- [#131627](https://github.com/NousResearch/hermes-agent/pull/131627) fix(desktop): model picker keeps names whole; message time on hover
+- [#131642](https://github.com/NousResearch/hermes-agent/pull/131642) fix(desktop,tui): /browser use [off] works outside the CLI
+- [#131645](https://github.com/NousResearch/hermes-agent/pull/131645) Add `solar-pro4` and `solar-mini4` to model pickers
+- [#131669](https://github.com/NousResearch/hermes-agent/pull/131669) fix(desktop): ship exact-size, theme-aware MSIX icons instead of one 44px tile
+- [#131676](https://github.com/NousResearch/hermes-agent/pull/131676) fix(tui): answer the vault save-login and verification-code prompts
+- [#131679](https://github.com/NousResearch/hermes-agent/pull/131679) A partial clone's .git stops growing: lazy-fetch packs fold on update and the commit-graph loop is off (#129712, salvage #129724, #127721)
+- [#131680](https://github.com/NousResearch/hermes-agent/pull/131680) fmt(js): `npm run fix` auto-fix
+- [#131682](https://github.com/NousResearch/hermes-agent/pull/131682) fix(cron): stop counting host sleep as job inactivity
+- [#131683](https://github.com/NousResearch/hermes-agent/pull/131683) A finished turn no longer waits on other sessions' tools (shared-metrics flush, salvage #131476)
+- [#131687](https://github.com/NousResearch/hermes-agent/pull/131687) fix(relay): stream chunks live under managed execution (steer stacking, stuck timer)
+- [#131691](https://github.com/NousResearch/hermes-agent/pull/131691) release.py abandon now cancels the abandoned rc's in-progress runs
+- [#131697](https://github.com/NousResearch/hermes-agent/pull/131697) fix(cli): honor --dry-run in uninstall --gui and keep shared workspace node_modules
+- [#131718](https://github.com/NousResearch/hermes-agent/pull/131718) A partial clone keeps folding its lazy-fetch packs; earlier cuts' keys migrate once, an operator's own stay (follow-up #131679, folds #131741)
+- [#131724](https://github.com/NousResearch/hermes-agent/pull/131724) stable release: the win32-bundle candidate call no longer skips the universal bundle
+- [#131726](https://github.com/NousResearch/hermes-agent/pull/131726) ci: replace the ci-reviewed label gate with CODEOWNERS
+- [#131727](https://github.com/NousResearch/hermes-agent/pull/131727) feat(optional-mcps|plugin-catalog): add sigrex MCP entry and re-pin s…
+- [#131728](https://github.com/NousResearch/hermes-agent/pull/131728) feat(activate): add activate.fish for the fish shell
+- [#131730](https://github.com/NousResearch/hermes-agent/pull/131730) test(observability): timeout metrics test waits for the export worker, no more empty-store flake
+- [#131735](https://github.com/NousResearch/hermes-agent/pull/131735) test(observability): direct-runtime metrics package no longer races the session close
+- [#131749](https://github.com/NousResearch/hermes-agent/pull/131749) Restoring a tray-hidden Hermes window on Windows no longer leaves it dead to input (#127349)
+- [#131750](https://github.com/NousResearch/hermes-agent/pull/131750) plugin-catalog: add agent-mail-gateway
+- [#131758](https://github.com/NousResearch/hermes-agent/pull/131758) fix(desktop): render a tool turn once on switch-back; core e2e catches duplicated or misordered replies
+- [#131779](https://github.com/NousResearch/hermes-agent/pull/131779) Windows update no longer fails when a running process still holds the old Python runtime's DLLs (#124807, salvage #124819, supersedes #128955 marker)
+- [#131782](https://github.com/NousResearch/hermes-agent/pull/131782) fix(local-runtime): AMD/Intel GPUs get the Vulkan build and are sized by their own memory (salvage #129750, #109336, #115076)
+- [#131785](https://github.com/NousResearch/hermes-agent/pull/131785) docs: remove source channels and install identity section; main is the only source channel
+- [#131790](https://github.com/NousResearch/hermes-agent/pull/131790) fix(transports): strip replayed reasoning_details on the Nous Portal wire [risk 0.30]
+- [#131792](https://github.com/NousResearch/hermes-agent/pull/131792) fix(tts): hide the console window on Windows command-provider spawns [risk 0.30]
+- [#131794](https://github.com/NousResearch/hermes-agent/pull/131794) fix(bot-mode): a stopped Bot relay no longer publishes stale rosters (salvage #131028)
+- [#131795](https://github.com/NousResearch/hermes-agent/pull/131795) Fallback to a Desktop-managed llama.cpp model works instead of failing "provider not configured" (#119227, salvage #119228)
+- [#131798](https://github.com/NousResearch/hermes-agent/pull/131798) fix(voice): honor configured silence_threshold and stop gating streaming TTS on sounddevice [risk 0.30]
+- [#131806](https://github.com/NousResearch/hermes-agent/pull/131806) fix(gateway): stop scraping /mnt/ PATH entries into WSL interop unit PATH [risk 0.30]
+- [#131809](https://github.com/NousResearch/hermes-agent/pull/131809) fix(install): login-bash users with only ~/.bash_login get ~/.local/bin on PATH
+- [#131810](https://github.com/NousResearch/hermes-agent/pull/131810) fix(kanban): point bare kanban_show/comment calls at kanban_list outside a worker [risk 0.30]
+- [#131813](https://github.com/NousResearch/hermes-agent/pull/131813) feat(plugin-catalog): add parlor
+- [#131820](https://github.com/NousResearch/hermes-agent/pull/131820) fix(desktop): forbid .only in all Playwright configs [risk 0.30]
+- [#131825](https://github.com/NousResearch/hermes-agent/pull/131825) fix(windows): arm64 update no longer fails when vcpkg picks a Visual Studio without the arm64 toolset (salvage #122840)
+- [#131834](https://github.com/NousResearch/hermes-agent/pull/131834) fix(web): fail over keyless auth rejections [risk 0.30]
+- [#131841](https://github.com/NousResearch/hermes-agent/pull/131841) Plugin installs no longer blocked by a Google installed-app OAuth client secret
+- [#131843](https://github.com/NousResearch/hermes-agent/pull/131843) feat(plugin-catalog): pricewin bundles its MCP server and skill with the cards (salvage #127263)
+- [#131845](https://github.com/NousResearch/hermes-agent/pull/131845) feat(plugin-catalog): add dexio memory provider (salvage #130474)
+- [#131846](https://github.com/NousResearch/hermes-agent/pull/131846) feat(plugin-catalog): add vornik-companion (salvage #131752)
+- [#131847](https://github.com/NousResearch/hermes-agent/pull/131847) Windows: a replaced tool entry with a read-only file is actually deleted (salvage #131772)
+- [#131852](https://github.com/NousResearch/hermes-agent/pull/131852) Python lints green again: mark the hermes-workflows /tmp disclosure as deliberate
+- [#131853](https://github.com/NousResearch/hermes-agent/pull/131853) fix(desktop): Bots keep each machine's bot identity when two backends share a profile name
+- [#131867](https://github.com/NousResearch/hermes-agent/pull/131867) fix(desktop): a bot on another connection keeps its own name; saves stop publishing cached titles
+- [#131868](https://github.com/NousResearch/hermes-agent/pull/131868) fix(web/firecrawl): pass timeout to scrape API to match asyncio deadline [risk 0.30]
+- [#131870](https://github.com/NousResearch/hermes-agent/pull/131870) feat(plugin-catalog): add model-drift-watch
+- [#131877](https://github.com/NousResearch/hermes-agent/pull/131877) chore(plugin-catalog): bump hermes-workflows to 1.2.0 @ 79043f1
+- [#131878](https://github.com/NousResearch/hermes-agent/pull/131878) fix(delegate): preserve inherited fixed child credentials [risk 0.30]
+- [#131883](https://github.com/NousResearch/hermes-agent/pull/131883) chore(plugin-catalog): update Gmail to v1.0.13
+- [#131887](https://github.com/NousResearch/hermes-agent/pull/131887) fix: guard memory tool against missing action and operations [risk 0.20]
+- [#131888](https://github.com/NousResearch/hermes-agent/pull/131888) fix(gateway): stop losing late steering and busy follow-ups (#131644)
+- [#131892](https://github.com/NousResearch/hermes-agent/pull/131892) fix(cli): add step-3.7-flash to StepFun picker by merging live and static catalogs [risk 0.30]
+- [#131894](https://github.com/NousResearch/hermes-agent/pull/131894) fix(cron): log tick lock contention at INFO [risk 0.30]
+- [#131895](https://github.com/NousResearch/hermes-agent/pull/131895) fix(tools): scope Docker reuse to immutable config [risk 0.30]
+- [#131896](https://github.com/NousResearch/hermes-agent/pull/131896) fix(kanban): bind auto-subscriptions to the live session after a compaction fork [risk 0.30]
+- [#131906](https://github.com/NousResearch/hermes-agent/pull/131906) fix(tools): expand legacy "hermes" toolset alias to prevent silent tool loss [risk 0.30]
+- [#131909](https://github.com/NousResearch/hermes-agent/pull/131909) fix(hooks): keep fail-closed gates from permitting crashed hooks [risk 0.20]
+- [#131910](https://github.com/NousResearch/hermes-agent/pull/131910) fix(mcp): re-validate PGID ownership before killing orphaned process groups [risk 0.20]
+- [#131912](https://github.com/NousResearch/hermes-agent/pull/131912) fix(agent): skip /v1/models/{model} probe for unrecognised server types [risk 0.30]
+- [#131913](https://github.com/NousResearch/hermes-agent/pull/131913) fix(kanban): explicit board (param or --board scope) trumps env pin [risk 0.60]
+- [#131914](https://github.com/NousResearch/hermes-agent/pull/131914) fix(computer-use): keep capture working when Cua Driver is frontmost [risk 0.30]
+- [#131915](https://github.com/NousResearch/hermes-agent/pull/131915) fix(auxiliary_client): preserve named user-defined provider on explicit base_url [risk 0.30]
+- [#131916](https://github.com/NousResearch/hermes-agent/pull/131916) fix(agent): stamp turn-liveness activity from the MoA reference fan-out [risk 0.30]
+- [#131923](https://github.com/NousResearch/hermes-agent/pull/131923) fix(disk-cleanup): accept macOS temp aliases [risk 0.30]
+- [#131925](https://github.com/NousResearch/hermes-agent/pull/131925) fix: include empty directories in file search [risk 0.30]
+- [#131931](https://github.com/NousResearch/hermes-agent/pull/131931) fix(delegation): pin live transcripts to the parent profile home (#91996)
+- [#131939](https://github.com/NousResearch/hermes-agent/pull/131939) fix(web/firecrawl): accept the server timeout in the keyless scrape client [risk 0.30]
+- [#131946](https://github.com/NousResearch/hermes-agent/pull/131946) Dead MCP servers' child processes are cleaned up again (fixes main e2e red from #131910)
+- [#131948](https://github.com/NousResearch/hermes-agent/pull/131948) fix(tools): correct legacy-alias comment in _get_platform_tools [risk 0.30]
+- [#131949](https://github.com/NousResearch/hermes-agent/pull/131949) fix(env/mcp): tolerate start-time drift in the PGID kill guards [risk 0.20]
+- [#131951](https://github.com/NousResearch/hermes-agent/pull/131951) fix(cli): don't crash the TUI on a malformed /queue index (salvage #130869)
+- [#131952](https://github.com/NousResearch/hermes-agent/pull/131952) fix(models): merge StepFun Step Plan live list with curated catalog on the picker path [risk 0.30]
+- [#131953](https://github.com/NousResearch/hermes-agent/pull/131953) fix(docker): keep per-process temp mounts out of the reuse fingerprint [risk 0.30]
+- [#131960](https://github.com/NousResearch/hermes-agent/pull/131960) chore(contributors): map ellannjohnson for attribution
+- [#131964](https://github.com/NousResearch/hermes-agent/pull/131964) catalog: add Chat Studio 1.1.0
+- [#131969](https://github.com/NousResearch/hermes-agent/pull/131969) fix(telegram): keep mid-line and indented code fences while anchoring inline backticks [risk 0.20]
+- [#131988](https://github.com/NousResearch/hermes-agent/pull/131988) fix(browser): stop real-profile agent-browser output capture wedging the tool call [risk 0.20]
+- [#132011](https://github.com/NousResearch/hermes-agent/pull/132011) fmt(js): `npm run fix` auto-fix
+- [#132055](https://github.com/NousResearch/hermes-agent/pull/132055) plugin-catalog: bump agent-mail-gateway to 0.3.3
+- [#132057](https://github.com/NousResearch/hermes-agent/pull/132057) Dead MCP servers' leftover processes are killed even when they ignore SIGTERM (salvage #131963)
+- [#132058](https://github.com/NousResearch/hermes-agent/pull/132058) fix(plugin-catalog): bump tam to 0.1.1 (no credentials in child env)
+- [#132070](https://github.com/NousResearch/hermes-agent/pull/132070) feat(plugin-catalog): add parcel-deliveries
+- [#132092](https://github.com/NousResearch/hermes-agent/pull/132092) fix(desktop/bots): bots keep their backend's name on cold start, in the pane, and in relay traces
+- [#132114](https://github.com/NousResearch/hermes-agent/pull/132114) chore(plugin-catalog): telegram_dashboard_probe 0.9.3 (no redirect with a token, what Hermes' auth code may write)
+- [#132115](https://github.com/NousResearch/hermes-agent/pull/132115) feat(catalog): add Usage Ledger 0.4.3 Windows beta
+- [#132119](https://github.com/NousResearch/hermes-agent/pull/132119) feat(plugin-catalog): add talaria-webui
+- [#132128](https://github.com/NousResearch/hermes-agent/pull/132128) Filtered sessions export now backs up pinned sessions (#131075, salvage #131130)
+- [#132129](https://github.com/NousResearch/hermes-agent/pull/132129) Session import keeps pinned, hidden and sweep-archive flags (#130344, salvage #130345)
+- [#132130](https://github.com/NousResearch/hermes-agent/pull/132130) Slack slash commands obey allowed_channels and ignored_channels (#130358, salvage #128767)
+- [#132131](https://github.com/NousResearch/hermes-agent/pull/132131) Pruned tool results no longer reappear after later answers (#117750, salvage #131494)
+- [#132132](https://github.com/NousResearch/hermes-agent/pull/132132) Discord allowlist no longer trusts nicknames or revoked IDs (salvage #131302, #131652)
+- [#132140](https://github.com/NousResearch/hermes-agent/pull/132140) TUI turn bookend and idle state no longer wait on post-turn memory trim (salvage #131773)
+- [#132141](https://github.com/NousResearch/hermes-agent/pull/132141) Compaction stubs keep a tool call's FAILED outcome (#131244, salvage #131312)
+- [#132142](https://github.com/NousResearch/hermes-agent/pull/132142) TUI /compress no longer overwrites an edit made just before it starts (salvage #131060)
+- [#132144](https://github.com/NousResearch/hermes-agent/pull/132144) Dashboard: malformed URL authorities return 4403/400 instead of 500 (salvage #131323)
+- [#132145](https://github.com/NousResearch/hermes-agent/pull/132145) Nested plugin loads no longer stall until the load deadline (#130575, salvage #130577)
+- [#132146](https://github.com/NousResearch/hermes-agent/pull/132146) Connector imports no longer deadlock the hosted-room worker (#123347, salvage #129507)
+- [#132154](https://github.com/NousResearch/hermes-agent/pull/132154) feat(pii): add hermes-pii plugin configuration
+- [#132157](https://github.com/NousResearch/hermes-agent/pull/132157) fmt(js): `npm run fix` auto-fix
+- [#132159](https://github.com/NousResearch/hermes-agent/pull/132159) Compaction no longer summarizes a denied tool call as if it ran (#131673, salvage #131674)
+- [#132160](https://github.com/NousResearch/hermes-agent/pull/132160) Compression no longer wedges on a long tool-only turn (#131412, salvage #131445)
+- [#132161](https://github.com/NousResearch/hermes-agent/pull/132161) Sibling PID namespaces no longer steal session leases or locks (#123081, salvage #131116)
+- [#132162](https://github.com/NousResearch/hermes-agent/pull/132162) Telegram no longer stays connected but deaf on a wedged dispatcher (#130407, #130942)
+- [#132166](https://github.com/NousResearch/hermes-agent/pull/132166) Compaction no longer stubs a refused write_file as written (#131244, salvage #131247)
+- [#132168](https://github.com/NousResearch/hermes-agent/pull/132168) Desktop quits when the last window closes on Windows/Linux (#130810, salvage #130835)
+- [#132174](https://github.com/NousResearch/hermes-agent/pull/132174) fmt(js): `npm run fix` auto-fix
+- [#132182](https://github.com/NousResearch/hermes-agent/pull/132182) Rotated /compress no longer reports false persist failures or drops rows (salvage #131756)
+- [#132183](https://github.com/NousResearch/hermes-agent/pull/132183) In-flight request no longer duplicated after compaction (#131104, salvage #131110)
+- [#132201](https://github.com/NousResearch/hermes-agent/pull/132201) Profile export no longer ships .ssh/.aws/.gnupg/.kube/.envrc (#126114, salvage #130398)
+- [#132211](https://github.com/NousResearch/hermes-agent/pull/132211) /save json no longer drops compaction-archived turns (#130339, salvage #130340)
+- [#132219](https://github.com/NousResearch/hermes-agent/pull/132219) SSH-isolated backends retire once a newer Desktop spawn owns the lock (#132034)
+- [#132251](https://github.com/NousResearch/hermes-agent/pull/132251) `/goal resume|pause|continue <words>` no longer overwrites the goal (salvage #127367)
+- [#132255](https://github.com/NousResearch/hermes-agent/pull/132255) Email trusts only the topmost auth header and skips unauthorized bodies (salvage #129772)
+- [#132257](https://github.com/NousResearch/hermes-agent/pull/132257) Telegram: a slow chat no longer stalls other chats' updates (#125098, salvage #125113)
+- [#132258](https://github.com/NousResearch/hermes-agent/pull/132258) Old session stores no longer lose user-typed duplicate titles (#126764, salvage #127743)
+- [#132260](https://github.com/NousResearch/hermes-agent/pull/132260) Stale worktree reaping keeps trees edited or committed after the audit (salvage #128887)
+- [#132270](https://github.com/NousResearch/hermes-agent/pull/132270) Debug share and support uploads redact secrets before truncation (salvage #129805)
+- [#132293](https://github.com/NousResearch/hermes-agent/pull/132293) Attachment preview and download on Windows no longer 404 for Git Bash MEDIA paths (salvage #131695)
+- [#132304](https://github.com/NousResearch/hermes-agent/pull/132304) Revert: stale worktree reaping revalidation (#132260)
+- [#132314](https://github.com/NousResearch/hermes-agent/pull/132314) eval(core-tool-deferral): keep agents' crontab and HOME writes inside the run sandbox
+- [#132315](https://github.com/NousResearch/hermes-agent/pull/132315) Cron rows in the TUI/Desktop wire contract type last_delivery_unverified as a target list
+- [#132316](https://github.com/NousResearch/hermes-agent/pull/132316) chore(contributors): map grinco's commit email
+- [#132320](https://github.com/NousResearch/hermes-agent/pull/132320) catalog: update by2kb to 0.7.0 learning-topic discovery
+- [#132336](https://github.com/NousResearch/hermes-agent/pull/132336) feat(plugin-catalog): add pushover-hermes-plugin
+- [#132339](https://github.com/NousResearch/hermes-agent/pull/132339) fix(plugins): no core override check catches patch helpers written as methods
+- [#132340](https://github.com/NousResearch/hermes-agent/pull/132340) Plugin catalog: delist herdr-auto-reconcile and localsend (repos deleted)
+- [#132341](https://github.com/NousResearch/hermes-agent/pull/132341) Ended empty ghost sessions no longer block reusing their title (salvage #108677)
+- [#132342](https://github.com/NousResearch/hermes-agent/pull/132342) Bump qdrant plugin catalog pin to 0.1.7 (KNOWLEDGE INDEX), disclose md_search
+- [#132344](https://github.com/NousResearch/hermes-agent/pull/132344) fix(web): anonymous guest users get free fast search again (restores #130121 intent)
+- [#132357](https://github.com/NousResearch/hermes-agent/pull/132357) One-shot CLI runs (hermes -z, chat -q/-Q) report their own telemetry entrypoint
+- [#132364](https://github.com/NousResearch/hermes-agent/pull/132364) TUI and Desktop /save json keep compaction-archived turns and obey the export cap
+- [#132366](https://github.com/NousResearch/hermes-agent/pull/132366) fix(telemetry): record auxiliary model calls with their real outcome
+- [#132377](https://github.com/NousResearch/hermes-agent/pull/132377) fix(process_registry): PTY kill no longer hangs on a setsid() escapee
+- [#132383](https://github.com/NousResearch/hermes-agent/pull/132383) feat(plugin-catalog): bump prompt-studio to 1.9.0
+- [#132409](https://github.com/NousResearch/hermes-agent/pull/132409) fix(desktop): list the active gateway's default in the condensed fleet menu
+- [#132436](https://github.com/NousResearch/hermes-agent/pull/132436) Background commands in a systemd scope run as written ($$, ${...} no longer rewritten)
+- [#132437](https://github.com/NousResearch/hermes-agent/pull/132437) Long manual cron runs are no longer swept as stale and run twice (salvage #132236)
+- [#132438](https://github.com/NousResearch/hermes-agent/pull/132438) Config hooks and outbound webhooks fire for external-worker cron jobs (salvage #131831)
+- [#132445](https://github.com/NousResearch/hermes-agent/pull/132445) Desktop shows and sends Ultrafast as its own speed tier (salvage #130990)
+- [#132446](https://github.com/NousResearch/hermes-agent/pull/132446) Cron crash notices use the firing profile's credentials (salvage #130431)
+- [#132456](https://github.com/NousResearch/hermes-agent/pull/132456) Discord setup checks your bot token and allowlists you; allowed users are editable one ID per box (salvage #83296)
+- [#132457](https://github.com/NousResearch/hermes-agent/pull/132457) hermes -z now closes its Relay session (fixes #79471)
+- [#132458](https://github.com/NousResearch/hermes-agent/pull/132458) fmt(js): `npm run fix` auto-fix
+- [#132460](https://github.com/NousResearch/hermes-agent/pull/132460) catalog: bump antigravity-subscription-directsdk pin to v1.0.10
+- [#132462](https://github.com/NousResearch/hermes-agent/pull/132462) fix(agent): stamp the activity clock at turn end and dump stacks on watchdog fire [risk 0.80]
+- [#132464](https://github.com/NousResearch/hermes-agent/pull/132464) Duplicate skill names resolve the same way on every surface (salvage #64462, #55634)
+- [#132465](https://github.com/NousResearch/hermes-agent/pull/132465) Skill Sync (hermes sync) and the org skill mirror are removed from core
+- [#132469](https://github.com/NousResearch/hermes-agent/pull/132469) Home Assistant moves out of core to the homeassistant catalog plugin, auto-installed for profiles that used it
+- [#132476](https://github.com/NousResearch/hermes-agent/pull/132476) Plugin catalog: homeassistant (official; Home Assistant leaves core in #132469)
+- [#132493](https://github.com/NousResearch/hermes-agent/pull/132493) feat(plugin-catalog): add mistral-vibe plugin
+- [#132512](https://github.com/NousResearch/hermes-agent/pull/132512) fix(launchers): bind published launchers to the install's own store, not an inherited runtime dir
+- [#132518](https://github.com/NousResearch/hermes-agent/pull/132518) fix(whatsapp): serve a paired WhatsApp session on every profile under the host multiplexer
+- [#132521](https://github.com/NousResearch/hermes-agent/pull/132521) fix(cli,pm): a borrowed HERMES_HOME leaves the shared checkout's launchers and tail to its owner
+- [#132529](https://github.com/NousResearch/hermes-agent/pull/132529) plugin-catalog: bump gonogo to v0.2.0
+- [#132530](https://github.com/NousResearch/hermes-agent/pull/132530) plugin-catalog: bump thomas to v0.1.2
+- [#132538](https://github.com/NousResearch/hermes-agent/pull/132538) fix(desktop): new and resumed sessions run on the gateway you picked (#132235, salvage #132237)
+- [#132563](https://github.com/NousResearch/hermes-agent/pull/132563) fix(whatsapp): adopt or stop only the bridge that serves this profile's session
+- [#132614](https://github.com/NousResearch/hermes-agent/pull/132614) Skills and tool errors no longer get OpenRouter sessions 403'd (#132504, salvage #132534)
+- [#132615](https://github.com/NousResearch/hermes-agent/pull/132615) Windows multiplex gateway survives a stalled profile probe (#132547, salvage #132593)
+- [#132616](https://github.com/NousResearch/hermes-agent/pull/132616) Telegram approval/clarify text prompts push in "important" mode (#132516, salvage #132527)
+- [#132617](https://github.com/NousResearch/hermes-agent/pull/132617) Session recovery keeps cron, /bg, room, API-server and ACP sessions (salvage #132230)
+- [#132618](https://github.com/NousResearch/hermes-agent/pull/132618) Long /goal requests no longer pin their whole turn out of compaction (salvage #132487)
+- [#132622](https://github.com/NousResearch/hermes-agent/pull/132622) fix(tui): keep resumed ssh sessions out of the Hermes host's directories (supersedes #132025)
+- [#132627](https://github.com/NousResearch/hermes-agent/pull/132627) Discord invite link and docs stop asking for the unused Use External Emojis permission (#73657, salvage #63261)
+- [#132654](https://github.com/NousResearch/hermes-agent/pull/132654) Profile export no longer ships Docker, Azure, gh or gcloud credentials (follow-up #132201)
+- [#132663](https://github.com/NousResearch/hermes-agent/pull/132663) Email requires an authserv_id pin; forged dmarc=pass refused (behaviour change, #88560)
+- [#132664](https://github.com/NousResearch/hermes-agent/pull/132664) Linux install no longer dies on hosts without libatomic (#124926, salvage #124961)
+- [#132721](https://github.com/NousResearch/hermes-agent/pull/132721) docs(plugin-catalog): README and docs agree on delisting, removal and entry fields
+- [#132729](https://github.com/NousResearch/hermes-agent/pull/132729) plugin catalog: Update community plugin kanban-gantt 1.3.3 (salvage #127990)
+- [#132739](https://github.com/NousResearch/hermes-agent/pull/132739) test(delegate): fix race in test_finite_batch_returns_parent_interruption
+- [#132828](https://github.com/NousResearch/hermes-agent/pull/132828) fix(cli): keep batch clarify choices inside the viewport
+
+## Selected canonical details
+
+### [#132618](https://github.com/NousResearch/hermes-agent/pull/132618) Long /goal requests no longer pin their whole turn out of compaction (salvage #132487)
+- Merged at: `2026-10-04T06:32:16Z`; base: `main`; merge SHA: `81e1ce78677bc0452a4475870d6f596a6161cad0`
+- Description excerpt: A turn that outgrows the protected tail now gets split and compacted even when its opening request (for example a long `/goal` prompt) is over 1,400 characters, so the session no longer grows until it hits the provider context limit. Refs #131412 (same `middle_window_tokens=0` / `no_progress` symptom with a different trigger; that issue is already closed) ## What happened The oversized-active-turn split added in #80449 only ran when the authored opening request was at most `_ACTIVE_TASK_MAX_CHARS` (1,400 chars). During a `/goal` run the continuation prompt is the only real user turn and is oft
+- Description SHA-256: `f3a1023e2f0c6c66cf52beb75b1426a42b2fd6847329799c6d836ee8ac43da5f`
+
+### [#132538](https://github.com/NousResearch/hermes-agent/pull/132538) fix(desktop): new and resumed sessions run on the gateway you picked (#132235, salvage #132237)
+- Merged at: `2026-10-04T07:04:52Z`; base: `main`; merge SHA: `fa190d2187cdc2dfcdb549e77590c3cee10d7d86`
+- Description excerpt: Desktop now runs new and resumed sessions on the gateway you picked, so choosing This device in the quick-selector no longer sends the next chat to Home server (#132235). Salvage of #132237 by @unsupportedpastels: their eight commits are cherry-picked onto current `main` with authorship intact, plus one follow-up commit from us. ## Changes From #132237 (@unsupportedpastels): - A pinned new-chat route (from a gateway-group `+`) is cleared when a gateway switch commits, so the next chat runs on the source you switched to. A newer draft is not re-homed by a late switch. - Project-tree session row
+- Description SHA-256: `b9c8771ce93e99f9a909dafd7a47f035d0789720b5bacfdbff58a5d102de3ddc`
+
+### [#132654](https://github.com/NousResearch/hermes-agent/pull/132654) Profile export no longer ships Docker, Azure, gh or gcloud credentials (follow-up #132201)
+- Merged at: `2026-10-04T08:23:35Z`; base: `main`; merge SHA: `40b623849a7b0610a2221c00caf5e3bae6f75a45`
+- Description excerpt: `hermes profile export` no longer archives Docker, Azure, GitHub CLI or gcloud credential stores found in a profile, and `@file:~/.config/gcloud/...` no longer expands the gcloud token into context. Follow-up to #132201 ## What happened #132201 stopped profile export shipping `.ssh`, `.aws`, `.gnupg`, `.kube` and `.envrc`, but the other credential dirs that the file tools already write-deny (`.docker`, `.azure`, `.config/gh`, `.config/gcloud`) still shipped. A skill dir copied from a home could carry `.docker/config.json` (registry auth), `.azure/accessTokens.json`, `.config/gh/hosts.yml` (Git
+- Description SHA-256: `782985d21841756688a0add88f7b9273fd63ca07a7cf9758fb7efece22ff7d13`
